@@ -1,0 +1,44 @@
+{
+  "text": " Nothing beats a Jat-Doo holiday and right now you can see up to 50 pounds of purple sand.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.0,
+      "text": " Nothing beats a Jat-Doo holiday and right now you can see up to 50 pounds of purple sand.",
+      "tokens": [
+        50364,
+        6693,
+        16447,
+        257,
+        508,
+        267,
+        12,
+        35,
+        1986,
+        9960,
+        293,
+        558,
+        586,
+        291,
+        393,
+        536,
+        493,
+        281,
+        2625,
+        8319,
+        295,
+        9656,
+        4932,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7930162136371319,
+      "compression_ratio": 1.0229885057471264,
+      "no_speech_prob": 0.5716267824172974
+    }
+  ],
+  "language": "en"
+}

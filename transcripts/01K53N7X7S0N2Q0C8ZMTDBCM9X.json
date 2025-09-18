@@ -1,0 +1,295 @@
+{
+  "text": " My name is streets side I am a little big boy I tales is conditions I eat 30 times a day My name is streets side I am a little big boy I tales is conditions I eat 30 times a Service This is a name, Fonki Cute and big But when you're with Fonki You'll be able to see Fonki will be your partner So you can sing together",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.74,
+      "text": " My name is streets side",
+      "tokens": [
+        50364,
+        1222,
+        1315,
+        307,
+        8481,
+        1252,
+        50601
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.76,
+      "end": 7.76,
+      "text": " I am a little big boy",
+      "tokens": [
+        50602,
+        286,
+        669,
+        257,
+        707,
+        955,
+        3237,
+        50752
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.76,
+      "end": 11.9,
+      "text": " I tales is conditions",
+      "tokens": [
+        50752,
+        286,
+        27254,
+        307,
+        4487,
+        50959
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.9,
+      "end": 14.86,
+      "text": " I eat 30 times a day",
+      "tokens": [
+        50959,
+        286,
+        1862,
+        2217,
+        1413,
+        257,
+        786,
+        51107
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.86,
+      "end": 16.86,
+      "text": " My name is streets side",
+      "tokens": [
+        51107,
+        1222,
+        1315,
+        307,
+        8481,
+        1252,
+        51207
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.76,
+      "end": 22.44,
+      "text": " I am a little big boy",
+      "tokens": [
+        51402,
+        286,
+        669,
+        257,
+        707,
+        955,
+        3237,
+        51486
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.44,
+      "end": 24.64,
+      "text": " I tales is conditions",
+      "tokens": [
+        51486,
+        286,
+        27254,
+        307,
+        4487,
+        51596
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.64,
+      "end": 28.26,
+      "text": " I eat 30 times a Service",
+      "tokens": [
+        51596,
+        286,
+        1862,
+        2217,
+        1413,
+        257,
+        9561,
+        51777
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2168786000397245,
+      "compression_ratio": 1.9673913043478262,
+      "no_speech_prob": 0.48286572098731995
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 33.0,
+      "text": " This is a name, Fonki",
+      "tokens": [
+        50364,
+        639,
+        307,
+        257,
+        1315,
+        11,
+        479,
+        266,
+        2984,
+        50514
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9603746032714844,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.46152859926223755
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 33.0,
+      "end": 36.0,
+      "text": " Cute and big",
+      "tokens": [
+        50514,
+        29121,
+        293,
+        955,
+        50664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9603746032714844,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.46152859926223755
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 37.0,
+      "end": 40.0,
+      "text": " But when you're with Fonki",
+      "tokens": [
+        50714,
+        583,
+        562,
+        291,
+        434,
+        365,
+        479,
+        266,
+        2984,
+        50864
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9603746032714844,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.46152859926223755
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 40.0,
+      "end": 43.0,
+      "text": " You'll be able to see",
+      "tokens": [
+        50864,
+        509,
+        603,
+        312,
+        1075,
+        281,
+        536,
+        51014
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9603746032714844,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.46152859926223755
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 44.0,
+      "end": 47.0,
+      "text": " Fonki will be your partner",
+      "tokens": [
+        51064,
+        479,
+        266,
+        2984,
+        486,
+        312,
+        428,
+        4975,
+        51214
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9603746032714844,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.46152859926223755
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 47.0,
+      "end": 51.0,
+      "text": " So you can sing together",
+      "tokens": [
+        51214,
+        407,
+        291,
+        393,
+        1522,
+        1214,
+        51414
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9603746032714844,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.46152859926223755
+    }
+  ],
+  "language": "en"
+}

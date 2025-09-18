@@ -1,0 +1,227 @@
+{
+  "text": "  kör ngekeability sṭane sz사가 narounden a luh 1080x swegen réttิ过nara kunn kén tade and ce nongcog naek n Veo the tsarس vida hi hi hi hi hi",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.04,
+      "text": "  kör ngekeability sṭane sz사가 narounden a luh 1080x",
+      "tokens": [
+        50364,
+        220,
+        42889,
+        297,
+        432,
+        330,
+        2310,
+        262,
+        10804,
+        255,
+        1929,
+        7870,
+        34435,
+        297,
+        25762,
+        268,
+        257,
+        287,
+        3232,
+        24547,
+        87,
+        50516
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.28,
+      "end": 6.66,
+      "text": " swegen réttิ过nara kunn kén tade and",
+      "tokens": [
+        50578,
+        262,
+        13683,
+        367,
+        4051,
+        83,
+        9596,
+        16866,
+        77,
+        2419,
+        8215,
+        77,
+        350,
+        3516,
+        256,
+        762,
+        293,
+        50697
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.140000000000001,
+      "end": 12.68,
+      "text": " ce nongcog naek n Veo",
+      "tokens": [
+        50721,
+        1769,
+        297,
+        556,
+        66,
+        664,
+        1667,
+        916,
+        297,
+        9706,
+        78,
+        50998
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.38,
+      "end": 14.68,
+      "text": " the",
+      "tokens": [
+        51033,
+        264,
+        51098
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.98,
+      "end": 15.1,
+      "text": " tsar",
+      "tokens": [
+        51113,
+        35492,
+        289,
+        51119
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 15.46,
+      "end": 16.5,
+      "text": "س vida",
+      "tokens": [
+        51137,
+        3794,
+        7644,
+        51189
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.62,
+      "end": 18.42,
+      "text": " hi",
+      "tokens": [
+        51245,
+        4879,
+        51285
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 19.46,
+      "end": 20.46,
+      "text": " hi",
+      "tokens": [
+        51337,
+        4879,
+        51387
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 20.94,
+      "end": 21.5,
+      "text": " hi",
+      "tokens": [
+        51411,
+        4879,
+        51439
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 22.92,
+      "end": 23.7,
+      "text": " hi",
+      "tokens": [
+        51510,
+        4879,
+        51549
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 27.02,
+      "end": 27.62,
+      "text": " hi",
+      "tokens": [
+        51715,
+        4879,
+        51745
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384893103490902,
+      "compression_ratio": 1.0785714285714285,
+      "no_speech_prob": 0.48456040024757385
+    }
+  ],
+  "language": "km"
+}

@@ -1,0 +1,126 @@
+{
+  "text": " Happy Birthday to you. We love you! Happy Birthday to you. Happy Birthday to you. Happy Birthday, Happy Birthday. Happy Birthday to you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Happy Birthday to you.",
+      "tokens": [
+        50364,
+        8277,
+        29236,
+        281,
+        291,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46890794908678207,
+      "compression_ratio": 2.215686274509804,
+      "no_speech_prob": 0.4167586863040924
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 7.0,
+      "text": " We love you!",
+      "tokens": [
+        50614,
+        492,
+        959,
+        291,
+        0,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46890794908678207,
+      "compression_ratio": 2.215686274509804,
+      "no_speech_prob": 0.4167586863040924
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.0,
+      "end": 12.0,
+      "text": " Happy Birthday to you.",
+      "tokens": [
+        50714,
+        8277,
+        29236,
+        281,
+        291,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46890794908678207,
+      "compression_ratio": 2.215686274509804,
+      "no_speech_prob": 0.4167586863040924
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.0,
+      "end": 19.0,
+      "text": " Happy Birthday to you.",
+      "tokens": [
+        50964,
+        8277,
+        29236,
+        281,
+        291,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46890794908678207,
+      "compression_ratio": 2.215686274509804,
+      "no_speech_prob": 0.4167586863040924
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.0,
+      "end": 29.0,
+      "text": " Happy Birthday, Happy Birthday.",
+      "tokens": [
+        51314,
+        8277,
+        29236,
+        11,
+        8277,
+        29236,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46890794908678207,
+      "compression_ratio": 2.215686274509804,
+      "no_speech_prob": 0.4167586863040924
+    },
+    {
+      "id": 5,
+      "seek": 2900,
+      "start": 29.0,
+      "end": 41.0,
+      "text": " Happy Birthday to you.",
+      "tokens": [
+        50364,
+        8277,
+        29236,
+        281,
+        291,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17359653115272522,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.09518808126449585
+    }
+  ],
+  "language": "en"
+}

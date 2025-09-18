@@ -1,0 +1,70 @@
+{
+  "text": " Paganda ka ng paganda, wala ka naman BILA SAVAGE",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paganda ka ng paganda, wala ka naman",
+      "tokens": [
+        50364,
+        430,
+        559,
+        5575,
+        6799,
+        6415,
+        11812,
+        5575,
+        11,
+        261,
+        5159,
+        6799,
+        297,
+        6147,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40807111446674055,
+      "compression_ratio": 1.0212765957446808,
+      "no_speech_prob": 0.1822880059480667
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.0,
+      "text": " BILA",
+      "tokens": [
+        50464,
+        363,
+        4620,
+        32,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40807111446674055,
+      "compression_ratio": 1.0212765957446808,
+      "no_speech_prob": 0.1822880059480667
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " SAVAGE",
+      "tokens": [
+        50564,
+        16482,
+        20914,
+        9177,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40807111446674055,
+      "compression_ratio": 1.0212765957446808,
+      "no_speech_prob": 0.1822880059480667
+    }
+  ],
+  "language": "tl"
+}

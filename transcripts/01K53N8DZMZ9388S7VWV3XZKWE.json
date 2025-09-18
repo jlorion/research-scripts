@@ -1,0 +1,79 @@
+{
+  "text": " Don't listen to them, cause what do they know? We need each other to have it too, oh There seems high, I know",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Don't listen to them, cause what do they know?",
+      "tokens": [
+        50364,
+        1468,
+        380,
+        2140,
+        281,
+        552,
+        11,
+        3082,
+        437,
+        360,
+        436,
+        458,
+        30,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.557387215750558,
+      "compression_ratio": 1.1473684210526316,
+      "no_speech_prob": 0.36582526564598083
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 10.0,
+      "text": " We need each other to have it too, oh",
+      "tokens": [
+        50614,
+        492,
+        643,
+        1184,
+        661,
+        281,
+        362,
+        309,
+        886,
+        11,
+        1954,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.557387215750558,
+      "compression_ratio": 1.1473684210526316,
+      "no_speech_prob": 0.36582526564598083
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.0,
+      "end": 18.0,
+      "text": " There seems high, I know",
+      "tokens": [
+        50864,
+        821,
+        2544,
+        1090,
+        11,
+        286,
+        458,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.557387215750558,
+      "compression_ratio": 1.1473684210526316,
+      "no_speech_prob": 0.36582526564598083
+    }
+  ],
+  "language": "en"
+}

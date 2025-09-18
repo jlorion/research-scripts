@@ -1,0 +1,32 @@
+{
+  "text": " Love attack attack on me another love attack attack on me",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.28,
+      "text": " Love attack attack on me another love attack attack on me",
+      "tokens": [
+        50364,
+        5956,
+        2690,
+        2690,
+        322,
+        385,
+        1071,
+        959,
+        2690,
+        2690,
+        322,
+        385,
+        50628
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47564870970589773,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.41905418038368225
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,43 @@
+{
+  "text": " Yung nanay mo nang pebenta ng bibak na dinakaw na sa sampayan",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.58,
+      "text": " Yung nanay mo nang pebenta ng bibak na dinakaw na sa sampayan",
+      "tokens": [
+        50364,
+        398,
+        1063,
+        14067,
+        320,
+        705,
+        297,
+        656,
+        520,
+        65,
+        8938,
+        6415,
+        272,
+        897,
+        514,
+        1667,
+        3791,
+        514,
+        1607,
+        1667,
+        601,
+        34098,
+        20506,
+        50793
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7511627960205078,
+      "compression_ratio": 1.0517241379310345,
+      "no_speech_prob": 0.28351128101348877
+    }
+  ],
+  "language": "tl"
+}

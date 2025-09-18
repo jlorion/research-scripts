@@ -1,0 +1,54 @@
+{
+  "text": " slick the back",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " slick",
+      "tokens": [
+        50364,
+        37406,
+        50514
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9842040322043677,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.3705296516418457
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 10.0,
+      "text": " the",
+      "tokens": [
+        50514,
+        264,
+        50864
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9842040322043677,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.3705296516418457
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 27.94,
+      "end": 29.900000000000002,
+      "text": " back",
+      "tokens": [
+        51761,
+        646,
+        51859
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9842040322043677,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.3705296516418457
+    }
+  ],
+  "language": "en"
+}

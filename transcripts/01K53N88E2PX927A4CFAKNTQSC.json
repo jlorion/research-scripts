@@ -1,0 +1,24 @@
+{
+  "text": " Civ pad poder",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 22.16,
+      "text": " Civ pad poder",
+      "tokens": [
+        50364,
+        35452,
+        6887,
+        8152,
+        51472
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -6.2898203531901045,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.3562124967575073
+    }
+  ],
+  "language": "en"
+}

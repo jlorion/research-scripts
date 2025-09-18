@@ -1,0 +1,89 @@
+{
+  "text": " Pag nabukbuk ka ng grabe, ang tawag sa'yo mommy. Alam mo, yung mommy? Yung may bandage na marami.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.36,
+      "text": " Pag nabukbuk ka ng grabe, ang tawag sa'yo mommy.",
+      "tokens": [
+        50364,
+        430,
+        559,
+        297,
+        455,
+        2034,
+        65,
+        2034,
+        6799,
+        6415,
+        1295,
+        650,
+        11,
+        2562,
+        256,
+        1607,
+        559,
+        601,
+        6,
+        8308,
+        25606,
+        13,
+        50532
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3827896965874566,
+      "compression_ratio": 1.1149425287356323,
+      "no_speech_prob": 0.12277442961931229
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.36,
+      "end": 5.36,
+      "text": " Alam mo, yung mommy?",
+      "tokens": [
+        50532,
+        967,
+        335,
+        705,
+        11,
+        288,
+        1063,
+        25606,
+        30,
+        50632
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3827896965874566,
+      "compression_ratio": 1.1149425287356323,
+      "no_speech_prob": 0.12277442961931229
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.36,
+      "end": 7.36,
+      "text": " Yung may bandage na marami.",
+      "tokens": [
+        50632,
+        398,
+        1063,
+        815,
+        4116,
+        609,
+        1667,
+        1849,
+        4526,
+        13,
+        50732
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3827896965874566,
+      "compression_ratio": 1.1149425287356323,
+      "no_speech_prob": 0.12277442961931229
+    }
+  ],
+  "language": "tl"
+}

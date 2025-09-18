@@ -1,0 +1,172 @@
+{
+  "text": " Mami, Diyo peta kung mahimok kanga sudan Unsa kanga klasih na hilo? Sudan? Unyang ano naabot kag hilo? Sa roon ang pagmutan naha, oi? Dura-rrap?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mami,",
+      "tokens": [
+        50364,
+        376,
+        4526,
+        11,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7123433163291529,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.172481507062912
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Diyo peta kung mahimok kanga sudan",
+      "tokens": [
+        50464,
+        413,
+        4727,
+        78,
+        3817,
+        64,
+        49304,
+        29926,
+        332,
+        453,
+        47898,
+        64,
+        3707,
+        282,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7123433163291529,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.172481507062912
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Unsa kanga klasih",
+      "tokens": [
+        50564,
+        1156,
+        5790,
+        47898,
+        64,
+        350,
+        7743,
+        4247,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7123433163291529,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.172481507062912
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " na hilo?",
+      "tokens": [
+        50664,
+        1667,
+        276,
+        10720,
+        30,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7123433163291529,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.172481507062912
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Sudan? Unyang ano naabot kag hilo?",
+      "tokens": [
+        50764,
+        12323,
+        282,
+        30,
+        1156,
+        88,
+        656,
+        19816,
+        1667,
+        455,
+        310,
+        350,
+        559,
+        276,
+        10720,
+        30,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7123433163291529,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.172481507062912
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.0,
+      "text": " Sa roon ang pagmutan naha, oi?",
+      "tokens": [
+        50864,
+        6299,
+        744,
+        266,
+        2562,
+        11812,
+        76,
+        30624,
+        297,
+        4408,
+        11,
+        277,
+        72,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7123433163291529,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.172481507062912
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Dura-rrap?",
+      "tokens": [
+        50964,
+        413,
+        2991,
+        12,
+        81,
+        4007,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7123433163291529,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.172481507062912
+    }
+  ],
+  "language": "tl"
+}

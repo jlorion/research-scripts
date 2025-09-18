@@ -1,0 +1,578 @@
+{
+  "text": " Pag na una ko umawel Ah ah ah ah I'm getting super fucking high Di na ako makatayo Kahit di na mapilay Ang lahat ng gusto ko Kaya ang kaya ko ibigay Kung ako ang gusto mo I'd like to see you fucking try I just got a new guy And he's getting me fly I'm richer than my ex Shit is out of decline I just wanna buy All the finer things in life More than I got that crazy crazy mind I just got a new guy And he's getting me fly I'm richer than my ex Shit is out of decline I just wanna buy All the finer things in life More than I got that crazy crazy mind I Ah ah ah ah I Ah ah ah ah I",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pag na una ko umawel",
+      "tokens": [
+        50364,
+        430,
+        559,
+        1667,
+        2002,
+        8384,
+        1105,
+        1607,
+        338,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 3.0,
+      "text": " Ah ah ah ah",
+      "tokens": [
+        50464,
+        2438,
+        3716,
+        3716,
+        3716,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.0,
+      "end": 5.0,
+      "text": " I'm getting super fucking high",
+      "tokens": [
+        50514,
+        286,
+        478,
+        1242,
+        1687,
+        5546,
+        1090,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.0,
+      "end": 6.2,
+      "text": " Di na ako makatayo",
+      "tokens": [
+        50614,
+        8789,
+        1667,
+        43567,
+        963,
+        267,
+        48947,
+        50674
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 6.2,
+      "end": 8.0,
+      "text": " Kahit di na mapilay",
+      "tokens": [
+        50674,
+        39444,
+        270,
+        1026,
+        1667,
+        4471,
+        388,
+        320,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 8.0,
+      "end": 9.4,
+      "text": " Ang lahat ng gusto ko",
+      "tokens": [
+        50764,
+        4521,
+        26532,
+        267,
+        6415,
+        38723,
+        8384,
+        50834
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 9.4,
+      "end": 11.200000000000001,
+      "text": " Kaya ang kaya ko ibigay",
+      "tokens": [
+        50834,
+        591,
+        4427,
+        2562,
+        350,
+        4427,
+        8384,
+        741,
+        37660,
+        320,
+        50924
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 11.200000000000001,
+      "end": 12.5,
+      "text": " Kung ako ang gusto mo",
+      "tokens": [
+        50924,
+        44317,
+        43567,
+        2562,
+        38723,
+        705,
+        50989
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 12.5,
+      "end": 14.5,
+      "text": " I'd like to see you fucking try",
+      "tokens": [
+        50989,
+        286,
+        1116,
+        411,
+        281,
+        536,
+        291,
+        5546,
+        853,
+        51089
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 14.5,
+      "end": 16.5,
+      "text": " I just got a new guy",
+      "tokens": [
+        51089,
+        286,
+        445,
+        658,
+        257,
+        777,
+        2146,
+        51189
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 16.5,
+      "end": 18.5,
+      "text": " And he's getting me fly",
+      "tokens": [
+        51189,
+        400,
+        415,
+        311,
+        1242,
+        385,
+        3603,
+        51289
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 18.5,
+      "end": 19.5,
+      "text": " I'm richer than my ex",
+      "tokens": [
+        51289,
+        286,
+        478,
+        29021,
+        813,
+        452,
+        454,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 19.5,
+      "end": 21.5,
+      "text": " Shit is out of decline",
+      "tokens": [
+        51339,
+        19593,
+        307,
+        484,
+        295,
+        15635,
+        51439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 21.5,
+      "end": 22.5,
+      "text": " I just wanna buy",
+      "tokens": [
+        51439,
+        286,
+        445,
+        1948,
+        2256,
+        51489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 22.5,
+      "end": 24.5,
+      "text": " All the finer things in life",
+      "tokens": [
+        51489,
+        1057,
+        264,
+        39130,
+        721,
+        294,
+        993,
+        51589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 24.5,
+      "end": 27.0,
+      "text": " More than I got that crazy crazy mind",
+      "tokens": [
+        51589,
+        5048,
+        813,
+        286,
+        658,
+        300,
+        3219,
+        3219,
+        1575,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 16,
+      "seek": 0,
+      "start": 27.0,
+      "end": 29.0,
+      "text": " I just got a new guy",
+      "tokens": [
+        51714,
+        286,
+        445,
+        658,
+        257,
+        777,
+        2146,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3112477315983302,
+      "compression_ratio": 1.6893617021276597,
+      "no_speech_prob": 0.3748404383659363
+    },
+    {
+      "id": 17,
+      "seek": 2900,
+      "start": 29.0,
+      "end": 30.5,
+      "text": " And he's getting me fly",
+      "tokens": [
+        50364,
+        400,
+        415,
+        311,
+        1242,
+        385,
+        3603,
+        50439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 18,
+      "seek": 2900,
+      "start": 30.5,
+      "end": 31.5,
+      "text": " I'm richer than my ex",
+      "tokens": [
+        50439,
+        286,
+        478,
+        29021,
+        813,
+        452,
+        454,
+        50489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 19,
+      "seek": 2900,
+      "start": 31.5,
+      "end": 33.5,
+      "text": " Shit is out of decline",
+      "tokens": [
+        50489,
+        19593,
+        307,
+        484,
+        295,
+        15635,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 20,
+      "seek": 2900,
+      "start": 33.5,
+      "end": 34.5,
+      "text": " I just wanna buy",
+      "tokens": [
+        50589,
+        286,
+        445,
+        1948,
+        2256,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 21,
+      "seek": 2900,
+      "start": 34.5,
+      "end": 36.5,
+      "text": " All the finer things in life",
+      "tokens": [
+        50639,
+        1057,
+        264,
+        39130,
+        721,
+        294,
+        993,
+        50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 22,
+      "seek": 2900,
+      "start": 36.5,
+      "end": 39.0,
+      "text": " More than I got that crazy crazy mind",
+      "tokens": [
+        50739,
+        5048,
+        813,
+        286,
+        658,
+        300,
+        3219,
+        3219,
+        1575,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 23,
+      "seek": 2900,
+      "start": 39.0,
+      "end": 41.0,
+      "text": " I",
+      "tokens": [
+        50864,
+        286,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 24,
+      "seek": 2900,
+      "start": 41.0,
+      "end": 43.0,
+      "text": " Ah ah ah ah",
+      "tokens": [
+        50964,
+        2438,
+        3716,
+        3716,
+        3716,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 25,
+      "seek": 2900,
+      "start": 43.0,
+      "end": 44.5,
+      "text": " I",
+      "tokens": [
+        51064,
+        286,
+        51139
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 26,
+      "seek": 2900,
+      "start": 44.5,
+      "end": 46.5,
+      "text": " Ah ah ah ah",
+      "tokens": [
+        51139,
+        2438,
+        3716,
+        3716,
+        3716,
+        51239
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    },
+    {
+      "id": 27,
+      "seek": 2900,
+      "start": 46.5,
+      "end": 48.5,
+      "text": " I",
+      "tokens": [
+        51239,
+        286,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17163478464320087,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.15117321908473969
+    }
+  ],
+  "language": "tl"
+}

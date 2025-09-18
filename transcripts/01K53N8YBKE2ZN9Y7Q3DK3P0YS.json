@@ -1,0 +1,38 @@
+{
+  "text": " Mãe, mãe, mãe, mãe, não festa de um fim de semana",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.14,
+      "text": " Mãe, mãe, mãe, mãe, não festa de um fim de semana",
+      "tokens": [
+        50364,
+        376,
+        1046,
+        68,
+        11,
+        29392,
+        11,
+        29392,
+        11,
+        29392,
+        11,
+        2431,
+        48080,
+        368,
+        1105,
+        31603,
+        368,
+        20205,
+        50971
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.6983628273010254,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.16398589313030243
+    }
+  ],
+  "language": "pt"
+}

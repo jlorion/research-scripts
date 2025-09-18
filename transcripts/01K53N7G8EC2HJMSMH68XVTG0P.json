@@ -1,0 +1,22 @@
+{
+  "text": " you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 15000,
+      "start": 150.0,
+      "end": 152.06,
+      "text": " you",
+      "tokens": [
+        50364,
+        291,
+        50467
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6901966333389282,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.9101434350013733
+    }
+  ],
+  "language": "en"
+}

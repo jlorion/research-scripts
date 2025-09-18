@@ -1,0 +1,28 @@
+{
+  "text": " ព វ �",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 28.76,
+      "text": " ព វ �",
+      "tokens": [
+        50364,
+        21879,
+        252,
+        244,
+        21879,
+        252,
+        250,
+        21879,
+        51802
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.390400505065918,
+      "compression_ratio": 0.55,
+      "no_speech_prob": 0.5601624846458435
+    }
+  ],
+  "language": "km"
+}

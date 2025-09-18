@@ -1,0 +1,59 @@
+{
+  "text": " Hindi ko, yatatanga pang buhay Isa hindi ko, mawakan ng iyong kamay",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.08,
+      "text": " Hindi ko, yatatanga pang buhay",
+      "tokens": [
+        50364,
+        36225,
+        8384,
+        11,
+        42734,
+        267,
+        26005,
+        280,
+        656,
+        758,
+        47464,
+        50718
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.701040404183524,
+      "compression_ratio": 1.0806451612903225,
+      "no_speech_prob": 0.32840824127197266
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.08,
+      "end": 16.1,
+      "text": " Isa hindi ko, mawakan ng iyong kamay",
+      "tokens": [
+        50718,
+        19718,
+        276,
+        10255,
+        8384,
+        11,
+        463,
+        86,
+        14910,
+        6415,
+        29861,
+        556,
+        9727,
+        320,
+        51169
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.701040404183524,
+      "compression_ratio": 1.0806451612903225,
+      "no_speech_prob": 0.32840824127197266
+    }
+  ],
+  "language": "tl"
+}

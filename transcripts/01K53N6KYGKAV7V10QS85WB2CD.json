@@ -1,0 +1,24 @@
+{
+  "text": " **Music**",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 28.52,
+      "text": " **Music**",
+      "tokens": [
+        50364,
+        22723,
+        8710,
+        4852,
+        51790
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.6701507568359375,
+      "compression_ratio": 0.5294117647058824,
+      "no_speech_prob": 0.46763500571250916
+    }
+  ],
+  "language": "en"
+}

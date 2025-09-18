@@ -1,0 +1,44 @@
+{
+  "text": " 5. Charles' Thanks for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.2,
+      "text": " 5. Charles'",
+      "tokens": [
+        50364,
+        1025,
+        13,
+        10523,
+        6,
+        50424
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6651919228690013,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.5507131218910217
+    },
+    {
+      "id": 1,
+      "seek": 6000,
+      "start": 60.0,
+      "end": 62.0,
+      "text": " Thanks for watching!",
+      "tokens": [
+        50364,
+        2561,
+        337,
+        1976,
+        0,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7403244972229004,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.8554624319076538
+    }
+  ],
+  "language": "la"
+}

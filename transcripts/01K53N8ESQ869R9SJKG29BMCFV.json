@@ -1,0 +1,179 @@
+{
+  "text": " Lukas pila ang nasiyang kimailawan Gap, may lahit ka bang tao? Hahahaha! Ano ba tingin mo sa akin? Halimaw? Ha? Ano ba tingin mo sa akin? Halimaw?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.5,
+      "text": " Lukas pila ang nasiyang kimailawan",
+      "tokens": [
+        50364,
+        441,
+        2034,
+        296,
+        6429,
+        64,
+        2562,
+        5382,
+        4727,
+        656,
+        10776,
+        864,
+        41814,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.5,
+      "end": 6.5,
+      "text": " Gap, may lahit ka bang tao?",
+      "tokens": [
+        50589,
+        460,
+        569,
+        11,
+        815,
+        26532,
+        270,
+        6799,
+        8550,
+        44292,
+        30,
+        50689
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.5,
+      "end": 8.5,
+      "text": " Hahahaha!",
+      "tokens": [
+        50689,
+        389,
+        30284,
+        0,
+        50789
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.5,
+      "end": 10.5,
+      "text": " Ano ba tingin mo sa akin?",
+      "tokens": [
+        50789,
+        1107,
+        78,
+        4773,
+        17922,
+        259,
+        705,
+        601,
+        47540,
+        30,
+        50889
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.5,
+      "end": 12.5,
+      "text": " Halimaw?",
+      "tokens": [
+        50889,
+        13896,
+        332,
+        1607,
+        30,
+        50989
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.5,
+      "end": 13.5,
+      "text": " Ha?",
+      "tokens": [
+        50989,
+        4064,
+        30,
+        51039
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 13.5,
+      "end": 15.5,
+      "text": " Ano ba tingin mo sa akin?",
+      "tokens": [
+        51039,
+        1107,
+        78,
+        4773,
+        17922,
+        259,
+        705,
+        601,
+        47540,
+        30,
+        51139
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 15.5,
+      "end": 17.5,
+      "text": " Halimaw?",
+      "tokens": [
+        51139,
+        13896,
+        332,
+        1607,
+        30,
+        51239
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5429547446114676,
+      "compression_ratio": 1.5208333333333333,
+      "no_speech_prob": 0.44776979088783264
+    }
+  ],
+  "language": "tl"
+}

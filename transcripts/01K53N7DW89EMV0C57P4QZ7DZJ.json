@@ -1,0 +1,110 @@
+{
+  "text": " Milênio Disco Club para Libera Geral Tá liberado o namorado, tá liberado pra beijar Milênio Disco Club te convida pra dançar Milênio Disco Club para Libera Geral",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Milênio Disco Club para Libera Geral",
+      "tokens": [
+        50364,
+        7036,
+        39266,
+        4208,
+        1291,
+        11288,
+        1690,
+        14175,
+        64,
+        48527,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31830031531197683,
+      "compression_ratio": 1.303030303030303,
+      "no_speech_prob": 0.035970501601696014
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 21.0,
+      "end": 25.0,
+      "text": " Tá liberado o namorado, tá liberado pra beijar",
+      "tokens": [
+        51414,
+        20907,
+        6774,
+        1573,
+        277,
+        8835,
+        284,
+        1573,
+        11,
+        7737,
+        6774,
+        1573,
+        3206,
+        312,
+        1718,
+        289,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31830031531197683,
+      "compression_ratio": 1.303030303030303,
+      "no_speech_prob": 0.035970501601696014
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 26.0,
+      "end": 29.0,
+      "text": " Milênio Disco Club te convida pra dançar",
+      "tokens": [
+        51664,
+        7036,
+        39266,
+        4208,
+        1291,
+        11288,
+        535,
+        3754,
+        2887,
+        3206,
+        3277,
+        26378,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31830031531197683,
+      "compression_ratio": 1.303030303030303,
+      "no_speech_prob": 0.035970501601696014
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 33.0,
+      "text": " Milênio Disco Club para Libera Geral",
+      "tokens": [
+        50364,
+        7036,
+        39266,
+        4208,
+        1291,
+        11288,
+        1690,
+        14175,
+        64,
+        48527,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47854407628377277,
+      "compression_ratio": 0.8809523809523809,
+      "no_speech_prob": 0.8949751257896423
+    }
+  ],
+  "language": "pt"
+}

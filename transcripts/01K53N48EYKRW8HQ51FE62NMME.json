@@ -1,0 +1,25 @@
+{
+  "text": " pick up by grace",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 27.36,
+      "text": " pick up by grace",
+      "tokens": [
+        50364,
+        1888,
+        493,
+        538,
+        10042,
+        51732
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.054318564278739,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.5289857983589172
+    }
+  ],
+  "language": "en"
+}

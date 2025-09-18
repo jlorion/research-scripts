@@ -1,0 +1,62 @@
+{
+  "text": " Take me back to the night I met you I don't know what I'm supposed to do, haunted by the ghost of you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.0,
+      "text": " Take me back to the night I met you",
+      "tokens": [
+        50364,
+        3664,
+        385,
+        646,
+        281,
+        264,
+        1818,
+        286,
+        1131,
+        291,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6158420193579889,
+      "compression_ratio": 1.1348314606741574,
+      "no_speech_prob": 0.43230313062667847
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.0,
+      "end": 15.0,
+      "text": " I don't know what I'm supposed to do, haunted by the ghost of you",
+      "tokens": [
+        50814,
+        286,
+        500,
+        380,
+        458,
+        437,
+        286,
+        478,
+        3442,
+        281,
+        360,
+        11,
+        24878,
+        538,
+        264,
+        8359,
+        295,
+        291,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6158420193579889,
+      "compression_ratio": 1.1348314606741574,
+      "no_speech_prob": 0.43230313062667847
+    }
+  ],
+  "language": "en"
+}

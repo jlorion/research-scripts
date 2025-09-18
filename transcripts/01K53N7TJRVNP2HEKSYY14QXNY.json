@@ -1,0 +1,79 @@
+{
+  "text": " Mas Ayaw ko yag beneran Ang ganda mo sain dissoci ay makita kamitid Kailin ko supp�",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.54,
+      "text": " Mas Ayaw ko yag beneran",
+      "tokens": [
+        50364,
+        5224,
+        9081,
+        1607,
+        8384,
+        288,
+        559,
+        3271,
+        260,
+        282,
+        50591
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.058288138253348,
+      "compression_ratio": 1.0240963855421688,
+      "no_speech_prob": 0.4694890081882477
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.74,
+      "end": 8.72,
+      "text": " Ang ganda mo sain dissoci ay makita kamitid",
+      "tokens": [
+        50651,
+        4521,
+        290,
+        5575,
+        705,
+        262,
+        491,
+        44446,
+        7494,
+        963,
+        2786,
+        9727,
+        270,
+        327,
+        50800
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.058288138253348,
+      "compression_ratio": 1.0240963855421688,
+      "no_speech_prob": 0.4694890081882477
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.98,
+      "end": 13.24,
+      "text": " Kailin ko supp�",
+      "tokens": [
+        50963,
+        591,
+        864,
+        259,
+        8384,
+        1003,
+        244,
+        51026
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.058288138253348,
+      "compression_ratio": 1.0240963855421688,
+      "no_speech_prob": 0.4694890081882477
+    }
+  ],
+  "language": "tl"
+}

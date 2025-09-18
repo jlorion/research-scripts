@@ -1,0 +1,62 @@
+{
+  "text": " And I know you're gonna need me here with you While I'm losing myself and I'm afraid you're gonna lose me too",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " And I know you're gonna need me here with you",
+      "tokens": [
+        50364,
+        400,
+        286,
+        458,
+        291,
+        434,
+        799,
+        643,
+        385,
+        510,
+        365,
+        291,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21368963487686649,
+      "compression_ratio": 1.2386363636363635,
+      "no_speech_prob": 0.6003690361976624
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 12.0,
+      "text": " While I'm losing myself and I'm afraid you're gonna lose me too",
+      "tokens": [
+        50664,
+        3987,
+        286,
+        478,
+        7027,
+        2059,
+        293,
+        286,
+        478,
+        4638,
+        291,
+        434,
+        799,
+        3624,
+        385,
+        886,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21368963487686649,
+      "compression_ratio": 1.2386363636363635,
+      "no_speech_prob": 0.6003690361976624
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,389 @@
+{
+  "text": " The wheels on the bus go round and round! Round and round! Round and round! The wheels on the bus go round and round! Round and round! The bulldozer goes push and lift! Push and lift! Push and lift! The bulldozer goes push and lift! Push and lift. We're on the move today Let's go, we're on our way The big tall crane goes up and down Up and down, up and down The big tall crane goes up and down Up and down The steamroller goes roll and push Roll and push",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.16,
+      "text": " The wheels on the bus go round and round!",
+      "tokens": [
+        50364,
+        440,
+        10046,
+        322,
+        264,
+        1255,
+        352,
+        3098,
+        293,
+        3098,
+        0,
+        50522
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.16,
+      "end": 4.8,
+      "text": " Round and round!",
+      "tokens": [
+        50522,
+        18525,
+        293,
+        3098,
+        0,
+        50604
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.8,
+      "end": 6.44,
+      "text": " Round and round!",
+      "tokens": [
+        50604,
+        18525,
+        293,
+        3098,
+        0,
+        50686
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.44,
+      "end": 9.94,
+      "text": " The wheels on the bus go round and round!",
+      "tokens": [
+        50686,
+        440,
+        10046,
+        322,
+        264,
+        1255,
+        352,
+        3098,
+        293,
+        3098,
+        0,
+        50861
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.94,
+      "end": 12.700000000000001,
+      "text": " Round and round!",
+      "tokens": [
+        50861,
+        18525,
+        293,
+        3098,
+        0,
+        50999
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 13.42,
+      "end": 16.6,
+      "text": " The bulldozer goes push and lift!",
+      "tokens": [
+        51035,
+        440,
+        4693,
+        2595,
+        4527,
+        1709,
+        2944,
+        293,
+        5533,
+        0,
+        51194
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 16.6,
+      "end": 18.38,
+      "text": " Push and lift!",
+      "tokens": [
+        51194,
+        18229,
+        293,
+        5533,
+        0,
+        51283
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 18.38,
+      "end": 20.02,
+      "text": " Push and lift!",
+      "tokens": [
+        51283,
+        18229,
+        293,
+        5533,
+        0,
+        51365
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 20.02,
+      "end": 23.5,
+      "text": " The bulldozer goes push and lift!",
+      "tokens": [
+        51365,
+        440,
+        4693,
+        2595,
+        4527,
+        1709,
+        2944,
+        293,
+        5533,
+        0,
+        51539
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 23.8,
+      "end": 26.78,
+      "text": " Push and lift.",
+      "tokens": [
+        51554,
+        18229,
+        293,
+        5533,
+        13,
+        51703
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6639730362665086,
+      "compression_ratio": 2.9404761904761907,
+      "no_speech_prob": 0.225493922829628
+    },
+    {
+      "id": 10,
+      "seek": 2678,
+      "start": 26.78,
+      "end": 30.28,
+      "text": " We're on the move today",
+      "tokens": [
+        50364,
+        492,
+        434,
+        322,
+        264,
+        1286,
+        965,
+        50539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14452349055897107,
+      "compression_ratio": 1.7472527472527473,
+      "no_speech_prob": 0.35357967019081116
+    },
+    {
+      "id": 11,
+      "seek": 2678,
+      "start": 30.28,
+      "end": 34.28,
+      "text": " Let's go, we're on our way",
+      "tokens": [
+        50539,
+        961,
+        311,
+        352,
+        11,
+        321,
+        434,
+        322,
+        527,
+        636,
+        50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14452349055897107,
+      "compression_ratio": 1.7472527472527473,
+      "no_speech_prob": 0.35357967019081116
+    },
+    {
+      "id": 12,
+      "seek": 2678,
+      "start": 40.28,
+      "end": 43.78,
+      "text": " The big tall crane goes up and down",
+      "tokens": [
+        51039,
+        440,
+        955,
+        6764,
+        36345,
+        1709,
+        493,
+        293,
+        760,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14452349055897107,
+      "compression_ratio": 1.7472527472527473,
+      "no_speech_prob": 0.35357967019081116
+    },
+    {
+      "id": 13,
+      "seek": 2678,
+      "start": 43.78,
+      "end": 47.28,
+      "text": " Up and down, up and down",
+      "tokens": [
+        51214,
+        5858,
+        293,
+        760,
+        11,
+        493,
+        293,
+        760,
+        51389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14452349055897107,
+      "compression_ratio": 1.7472527472527473,
+      "no_speech_prob": 0.35357967019081116
+    },
+    {
+      "id": 14,
+      "seek": 2678,
+      "start": 47.28,
+      "end": 50.78,
+      "text": " The big tall crane goes up and down",
+      "tokens": [
+        51389,
+        440,
+        955,
+        6764,
+        36345,
+        1709,
+        493,
+        293,
+        760,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14452349055897107,
+      "compression_ratio": 1.7472527472527473,
+      "no_speech_prob": 0.35357967019081116
+    },
+    {
+      "id": 15,
+      "seek": 2678,
+      "start": 50.78,
+      "end": 53.78,
+      "text": " Up and down",
+      "tokens": [
+        51564,
+        5858,
+        293,
+        760,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14452349055897107,
+      "compression_ratio": 1.7472527472527473,
+      "no_speech_prob": 0.35357967019081116
+    },
+    {
+      "id": 16,
+      "seek": 5378,
+      "start": 53.78,
+      "end": 57.78,
+      "text": " The steamroller goes roll and push",
+      "tokens": [
+        50364,
+        440,
+        11952,
+        22922,
+        1709,
+        3373,
+        293,
+        2944,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14035817782084148,
+      "compression_ratio": 1.1162790697674418,
+      "no_speech_prob": 0.012878314591944218
+    },
+    {
+      "id": 17,
+      "seek": 5378,
+      "start": 57.78,
+      "end": 59.78,
+      "text": " Roll and push",
+      "tokens": [
+        50564,
+        9926,
+        293,
+        2944,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14035817782084148,
+      "compression_ratio": 1.1162790697674418,
+      "no_speech_prob": 0.012878314591944218
+    }
+  ],
+  "language": "en"
+}

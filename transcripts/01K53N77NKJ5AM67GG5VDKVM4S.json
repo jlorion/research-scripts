@@ -1,0 +1,93 @@
+{
+  "text": " It's you Oh no Oh no oh no... oh no",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.34,
+      "text": " It's you",
+      "tokens": [
+        50364,
+        467,
+        311,
+        291,
+        50481
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.0530186528744907,
+      "compression_ratio": 1.1290322580645162,
+      "no_speech_prob": 0.554279088973999
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.46,
+      "end": 4.2,
+      "text": " Oh no",
+      "tokens": [
+        50537,
+        876,
+        572,
+        50574
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.0530186528744907,
+      "compression_ratio": 1.1290322580645162,
+      "no_speech_prob": 0.554279088973999
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.68,
+      "end": 5.5200000000000005,
+      "text": " Oh no",
+      "tokens": [
+        50598,
+        876,
+        572,
+        50640
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.0530186528744907,
+      "compression_ratio": 1.1290322580645162,
+      "no_speech_prob": 0.554279088973999
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.88,
+      "end": 8.32,
+      "text": " oh no...",
+      "tokens": [
+        50658,
+        1954,
+        572,
+        485,
+        50780
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.0530186528744907,
+      "compression_ratio": 1.1290322580645162,
+      "no_speech_prob": 0.554279088973999
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.94,
+      "end": 9.68,
+      "text": " oh no",
+      "tokens": [
+        50811,
+        1954,
+        572,
+        50848
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.0530186528744907,
+      "compression_ratio": 1.1290322580645162,
+      "no_speech_prob": 0.554279088973999
+    }
+  ],
+  "language": "en"
+}

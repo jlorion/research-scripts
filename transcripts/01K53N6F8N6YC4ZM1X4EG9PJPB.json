@@ -1,0 +1,168 @@
+{
+  "text": " So we can fit into the night and do nothing The world could die And everything may lie Still you should cry Cause time may pass But nothing will last I'll be by your side I'll be by your side",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " So we can fit into the night and do nothing",
+      "tokens": [
+        50364,
+        407,
+        321,
+        393,
+        3318,
+        666,
+        264,
+        1818,
+        293,
+        360,
+        1825,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3654924906217135,
+      "compression_ratio": 1.3385826771653544,
+      "no_speech_prob": 0.25089192390441895
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 8.0,
+      "text": " The world could die",
+      "tokens": [
+        50564,
+        440,
+        1002,
+        727,
+        978,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3654924906217135,
+      "compression_ratio": 1.3385826771653544,
+      "no_speech_prob": 0.25089192390441895
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 11.0,
+      "text": " And everything may lie",
+      "tokens": [
+        50764,
+        400,
+        1203,
+        815,
+        4544,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3654924906217135,
+      "compression_ratio": 1.3385826771653544,
+      "no_speech_prob": 0.25089192390441895
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.0,
+      "end": 14.0,
+      "text": " Still you should cry",
+      "tokens": [
+        50914,
+        8291,
+        291,
+        820,
+        3305,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3654924906217135,
+      "compression_ratio": 1.3385826771653544,
+      "no_speech_prob": 0.25089192390441895
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.0,
+      "end": 20.0,
+      "text": " Cause time may pass",
+      "tokens": [
+        51214,
+        10865,
+        565,
+        815,
+        1320,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3654924906217135,
+      "compression_ratio": 1.3385826771653544,
+      "no_speech_prob": 0.25089192390441895
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.0,
+      "end": 23.0,
+      "text": " But nothing will last",
+      "tokens": [
+        51364,
+        583,
+        1825,
+        486,
+        1036,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3654924906217135,
+      "compression_ratio": 1.3385826771653544,
+      "no_speech_prob": 0.25089192390441895
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.0,
+      "end": 26.0,
+      "text": " I'll be by your side",
+      "tokens": [
+        51514,
+        286,
+        603,
+        312,
+        538,
+        428,
+        1252,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3654924906217135,
+      "compression_ratio": 1.3385826771653544,
+      "no_speech_prob": 0.25089192390441895
+    },
+    {
+      "id": 7,
+      "seek": 2600,
+      "start": 26.0,
+      "end": 29.0,
+      "text": " I'll be by your side",
+      "tokens": [
+        50364,
+        286,
+        603,
+        312,
+        538,
+        428,
+        1252,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18320592244466147,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.2711741626262665
+    }
+  ],
+  "language": "en"
+}

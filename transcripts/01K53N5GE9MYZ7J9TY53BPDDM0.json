@@ -1,0 +1,156 @@
+{
+  "text": " Baka ka ba po? Ano? Ba't kayo nandito? Bumaba ka kayo! Ayun, nang... Bumaba ka kayo! Bumaba ka na kayo!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Baka ka ba po?",
+      "tokens": [
+        50364,
+        363,
+        7849,
+        6799,
+        4773,
+        714,
+        30,
+        50464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49714543024698893,
+      "compression_ratio": 1.4927536231884058,
+      "no_speech_prob": 0.207882359623909
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Ano?",
+      "tokens": [
+        50464,
+        1107,
+        78,
+        30,
+        50564
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49714543024698893,
+      "compression_ratio": 1.4927536231884058,
+      "no_speech_prob": 0.207882359623909
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Ba't kayo nandito?",
+      "tokens": [
+        50564,
+        6777,
+        380,
+        12446,
+        78,
+        297,
+        474,
+        3528,
+        30,
+        50664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49714543024698893,
+      "compression_ratio": 1.4927536231884058,
+      "no_speech_prob": 0.207882359623909
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Bumaba ka kayo!",
+      "tokens": [
+        50664,
+        363,
+        449,
+        5509,
+        6799,
+        12446,
+        78,
+        0,
+        50764
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49714543024698893,
+      "compression_ratio": 1.4927536231884058,
+      "no_speech_prob": 0.207882359623909
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Ayun, nang...",
+      "tokens": [
+        50764,
+        9081,
+        409,
+        11,
+        297,
+        656,
+        485,
+        50864
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49714543024698893,
+      "compression_ratio": 1.4927536231884058,
+      "no_speech_prob": 0.207882359623909
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.0,
+      "text": " Bumaba ka kayo!",
+      "tokens": [
+        50864,
+        363,
+        449,
+        5509,
+        6799,
+        12446,
+        78,
+        0,
+        50964
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49714543024698893,
+      "compression_ratio": 1.4927536231884058,
+      "no_speech_prob": 0.207882359623909
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Bumaba ka na kayo!",
+      "tokens": [
+        50964,
+        363,
+        449,
+        5509,
+        6799,
+        1667,
+        12446,
+        78,
+        0,
+        51064
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.49714543024698893,
+      "compression_ratio": 1.4927536231884058,
+      "no_speech_prob": 0.207882359623909
+    }
+  ],
+  "language": "tl"
+}

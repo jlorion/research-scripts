@@ -1,0 +1,222 @@
+{
+  "text": " Vielen Dankשר. aqui foundation some kind ofGrazie for me I Well I want you baby oh Please tell your son this is close Give my thoughts and let me know Oh no",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Vielen Dankשר.",
+      "tokens": [
+        50364,
+        22502,
+        14148,
+        30040,
+        13,
+        50564
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 15.82,
+      "text": " aqui",
+      "tokens": [
+        50564,
+        3871,
+        51155
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 16.68,
+      "end": 17.1,
+      "text": " foundation",
+      "tokens": [
+        51198,
+        7030,
+        51219
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.1,
+      "end": 19.76,
+      "text": " some kind of",
+      "tokens": [
+        51219,
+        512,
+        733,
+        295,
+        51352
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.76,
+      "end": 20.76,
+      "text": "Grazie",
+      "tokens": [
+        51352,
+        37858,
+        3283,
+        51402
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.76,
+      "end": 22.14,
+      "text": " for me",
+      "tokens": [
+        51402,
+        337,
+        385,
+        51471
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.64,
+      "end": 23.98,
+      "text": " I",
+      "tokens": [
+        51496,
+        286,
+        51563
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.32,
+      "end": 26.22,
+      "text": " Well",
+      "tokens": [
+        51580,
+        1042,
+        51675
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.181386311848958,
+      "compression_ratio": 0.9154929577464789,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 8,
+      "seek": 2622,
+      "start": 26.22,
+      "end": 32.22,
+      "text": " I want you baby oh",
+      "tokens": [
+        50364,
+        286,
+        528,
+        291,
+        3186,
+        1954,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9036346435546875,
+      "compression_ratio": 1.108433734939759,
+      "no_speech_prob": 0.7686557173728943
+    },
+    {
+      "id": 9,
+      "seek": 2622,
+      "start": 32.22,
+      "end": 38.22,
+      "text": " Please tell your son this is close",
+      "tokens": [
+        50664,
+        2555,
+        980,
+        428,
+        1872,
+        341,
+        307,
+        1998,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9036346435546875,
+      "compression_ratio": 1.108433734939759,
+      "no_speech_prob": 0.7686557173728943
+    },
+    {
+      "id": 10,
+      "seek": 2622,
+      "start": 38.22,
+      "end": 43.22,
+      "text": " Give my thoughts and let me know",
+      "tokens": [
+        50964,
+        5303,
+        452,
+        4598,
+        293,
+        718,
+        385,
+        458,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9036346435546875,
+      "compression_ratio": 1.108433734939759,
+      "no_speech_prob": 0.7686557173728943
+    },
+    {
+      "id": 11,
+      "seek": 2622,
+      "start": 43.22,
+      "end": 46.22,
+      "text": " Oh no",
+      "tokens": [
+        51214,
+        876,
+        572,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9036346435546875,
+      "compression_ratio": 1.108433734939759,
+      "no_speech_prob": 0.7686557173728943
+    }
+  ],
+  "language": "en"
+}

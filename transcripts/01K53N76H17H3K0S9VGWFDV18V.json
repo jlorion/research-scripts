@@ -1,0 +1,70 @@
+{
+  "text": " Mabasungat ko, lalaki ang guwa po Inomnos ko, pukin tatder ko, para'y numaki ang amo",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.0,
+      "text": " Mabasungat ko, lalaki ang guwa po",
+      "tokens": [
+        50364,
+        376,
+        455,
+        296,
+        1063,
+        267,
+        8384,
+        11,
+        287,
+        304,
+        7421,
+        2562,
+        695,
+        4151,
+        714,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9359959333370893,
+      "compression_ratio": 1.0909090909090908,
+      "no_speech_prob": 0.4350087642669678
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.0,
+      "end": 19.0,
+      "text": " Inomnos ko, pukin tatder ko, para'y numaki ang amo",
+      "tokens": [
+        50864,
+        682,
+        298,
+        77,
+        329,
+        8384,
+        11,
+        280,
+        2034,
+        259,
+        9600,
+        1068,
+        8384,
+        11,
+        1690,
+        6,
+        88,
+        1031,
+        7421,
+        2562,
+        43155,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9359959333370893,
+      "compression_ratio": 1.0909090909090908,
+      "no_speech_prob": 0.4350087642669678
+    }
+  ],
+  "language": "tl"
+}

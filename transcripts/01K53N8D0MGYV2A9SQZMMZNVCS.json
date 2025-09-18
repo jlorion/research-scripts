@@ -1,0 +1,93 @@
+{
+  "text": " Ravi, hindi ko na nga yan. Ano? Hindi ko po na. Nandang ka na nga eh.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ravi, hindi ko na nga yan.",
+      "tokens": [
+        50364,
+        44486,
+        11,
+        276,
+        10255,
+        8384,
+        1667,
+        297,
+        3680,
+        17700,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7103893491956923,
+      "compression_ratio": 1.1129032258064515,
+      "no_speech_prob": 0.19738022983074188
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 3.0,
+      "text": " Ano?",
+      "tokens": [
+        50464,
+        1107,
+        78,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7103893491956923,
+      "compression_ratio": 1.1129032258064515,
+      "no_speech_prob": 0.19738022983074188
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.0,
+      "end": 4.0,
+      "text": " Hindi ko po na.",
+      "tokens": [
+        50514,
+        36225,
+        8384,
+        714,
+        1667,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7103893491956923,
+      "compression_ratio": 1.1129032258064515,
+      "no_speech_prob": 0.19738022983074188
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Nandang ka na nga eh.",
+      "tokens": [
+        50564,
+        426,
+        474,
+        656,
+        6799,
+        1667,
+        297,
+        3680,
+        7670,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7103893491956923,
+      "compression_ratio": 1.1129032258064515,
+      "no_speech_prob": 0.19738022983074188
+    }
+  ],
+  "language": "tl"
+}

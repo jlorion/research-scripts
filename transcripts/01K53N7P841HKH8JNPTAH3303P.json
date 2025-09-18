@@ -1,0 +1,45 @@
+{
+  "text": " Mabokin ang ina mo! Sak-sak ka n'yo! Takinong sige!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.0,
+      "text": " Mabokin ang ina mo! Sak-sak ka n'yo! Takinong sige!",
+      "tokens": [
+        50364,
+        376,
+        455,
+        453,
+        259,
+        2562,
+        294,
+        64,
+        705,
+        0,
+        18025,
+        12,
+        82,
+        514,
+        6799,
+        297,
+        6,
+        8308,
+        0,
+        9118,
+        259,
+        556,
+        262,
+        3969,
+        0,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8564523061116537,
+      "compression_ratio": 0.9107142857142857,
+      "no_speech_prob": 0.3272712826728821
+    }
+  ],
+  "language": "tl"
+}

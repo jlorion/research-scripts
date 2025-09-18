@@ -1,0 +1,179 @@
+{
+  "text": " Wala tayo magagawa mahal mo na Eh, Batadan Alam mo ba? Wala tayo magagawa mahal mo na Eh, Batadan Wala tayo magagawa mahal mo na Ena! Eh, Batadan",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wala tayo magagawa mahal mo na",
+      "tokens": [
+        50364,
+        343,
+        5159,
+        39224,
+        78,
+        2258,
+        559,
+        10449,
+        463,
+        4947,
+        705,
+        1667,
+        50464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 8.0,
+      "text": " Eh, Batadan",
+      "tokens": [
+        50464,
+        9663,
+        11,
+        10066,
+        11338,
+        50764
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Alam mo ba?",
+      "tokens": [
+        50764,
+        967,
+        335,
+        705,
+        4773,
+        30,
+        50864
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.0,
+      "end": 13.0,
+      "text": " Wala tayo magagawa mahal mo na",
+      "tokens": [
+        50864,
+        343,
+        5159,
+        39224,
+        78,
+        2258,
+        559,
+        10449,
+        463,
+        4947,
+        705,
+        1667,
+        51014
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.0,
+      "end": 17.0,
+      "text": " Eh, Batadan",
+      "tokens": [
+        51014,
+        9663,
+        11,
+        10066,
+        11338,
+        51214
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.0,
+      "end": 24.0,
+      "text": " Wala tayo magagawa mahal mo na",
+      "tokens": [
+        51414,
+        343,
+        5159,
+        39224,
+        78,
+        2258,
+        559,
+        10449,
+        463,
+        4947,
+        705,
+        1667,
+        51564
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.0,
+      "end": 25.0,
+      "text": " Ena!",
+      "tokens": [
+        51564,
+        462,
+        629,
+        0,
+        51614
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.0,
+      "end": 28.0,
+      "text": " Eh, Batadan",
+      "tokens": [
+        51614,
+        9663,
+        11,
+        10066,
+        11338,
+        51764
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.38325800214494976,
+      "compression_ratio": 2.101449275362319,
+      "no_speech_prob": 0.2604438066482544
+    }
+  ],
+  "language": "tl"
+}

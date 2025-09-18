@@ -1,0 +1,44 @@
+{
+  "text": " ... sa aking sabi ni Diskaya, posibili nero siyang selective amnesia.\"",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " ... sa aking sabi ni Diskaya, posibili nero siyang selective amnesia.\"",
+      "tokens": [
+        50364,
+        1097,
+        601,
+        257,
+        5092,
+        5560,
+        72,
+        3867,
+        4208,
+        789,
+        64,
+        11,
+        1366,
+        897,
+        2312,
+        297,
+        2032,
+        1511,
+        23594,
+        33930,
+        669,
+        4081,
+        654,
+        889,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6922062360323392,
+      "compression_ratio": 0.9859154929577465,
+      "no_speech_prob": 0.887509822845459
+    }
+  ],
+  "language": "tl"
+}

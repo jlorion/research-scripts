@@ -1,0 +1,153 @@
+{
+  "text": " Huwapo ka lang pero hindi mo rin nangkayang magpatato WOOOOOOOOOOOOO Pagin ako maraming tato, meron din akong tato Gusto nyo ng tato? Mas marami akong tato Pakyo ka!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.72,
+      "text": " Huwapo ka lang pero hindi mo rin nangkayang magpatato",
+      "tokens": [
+        50364,
+        11874,
+        86,
+        37615,
+        6799,
+        2265,
+        4768,
+        276,
+        10255,
+        705,
+        367,
+        259,
+        297,
+        656,
+        789,
+        656,
+        2258,
+        11584,
+        2513,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5579544612339564,
+      "compression_ratio": 1.4473684210526316,
+      "no_speech_prob": 0.033618561923503876
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.72,
+      "end": 4.24,
+      "text": " WOOOOOOOOOOOOO",
+      "tokens": [
+        50500,
+        343,
+        40466,
+        14963,
+        46,
+        50576
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5579544612339564,
+      "compression_ratio": 1.4473684210526316,
+      "no_speech_prob": 0.033618561923503876
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.24,
+      "end": 6.72,
+      "text": " Pagin ako maraming tato, meron din akong tato",
+      "tokens": [
+        50576,
+        430,
+        559,
+        259,
+        43567,
+        1849,
+        5184,
+        256,
+        2513,
+        11,
+        3551,
+        266,
+        3791,
+        9308,
+        556,
+        256,
+        2513,
+        50700
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5579544612339564,
+      "compression_ratio": 1.4473684210526316,
+      "no_speech_prob": 0.033618561923503876
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.72,
+      "end": 8.16,
+      "text": " Gusto nyo ng tato?",
+      "tokens": [
+        50700,
+        32337,
+        78,
+        297,
+        8308,
+        6415,
+        256,
+        2513,
+        30,
+        50772
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5579544612339564,
+      "compression_ratio": 1.4473684210526316,
+      "no_speech_prob": 0.033618561923503876
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.16,
+      "end": 10.16,
+      "text": " Mas marami akong tato",
+      "tokens": [
+        50772,
+        5224,
+        1849,
+        4526,
+        9308,
+        556,
+        256,
+        2513,
+        50872
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5579544612339564,
+      "compression_ratio": 1.4473684210526316,
+      "no_speech_prob": 0.033618561923503876
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.16,
+      "end": 11.44,
+      "text": " Pakyo ka!",
+      "tokens": [
+        50872,
+        11543,
+        8308,
+        6799,
+        0,
+        50936
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5579544612339564,
+      "compression_ratio": 1.4473684210526316,
+      "no_speech_prob": 0.033618561923503876
+    }
+  ],
+  "language": "tl"
+}

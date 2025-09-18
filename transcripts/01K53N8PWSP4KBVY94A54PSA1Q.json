@@ -1,0 +1,91 @@
+{
+  "text": " Dear basketball, from the moment I started rolling my dad's tube socks and shooting imaginary game winning shots in the great western form, I knew one thing was real. I fell in love with you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.48,
+      "text": " Dear basketball, from the moment I started rolling my dad's tube socks and shooting",
+      "tokens": [
+        50364,
+        14383,
+        11767,
+        11,
+        490,
+        264,
+        1623,
+        286,
+        1409,
+        9439,
+        452,
+        3546,
+        311,
+        9917,
+        17564,
+        293,
+        5942,
+        50688
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36725815306318566,
+      "compression_ratio": 1.3642857142857143,
+      "no_speech_prob": 0.3773233890533447
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.48,
+      "end": 11.32,
+      "text": " imaginary game winning shots in the great western form, I knew one thing was real.",
+      "tokens": [
+        50688,
+        26164,
+        1216,
+        8224,
+        8305,
+        294,
+        264,
+        869,
+        13231,
+        1254,
+        11,
+        286,
+        2586,
+        472,
+        551,
+        390,
+        957,
+        13,
+        50930
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36725815306318566,
+      "compression_ratio": 1.3642857142857143,
+      "no_speech_prob": 0.3773233890533447
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.32,
+      "end": 13.280000000000001,
+      "text": " I fell in love with you.",
+      "tokens": [
+        50930,
+        286,
+        5696,
+        294,
+        959,
+        365,
+        291,
+        13,
+        51028
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36725815306318566,
+      "compression_ratio": 1.3642857142857143,
+      "no_speech_prob": 0.3773233890533447
+    }
+  ],
+  "language": "en"
+}

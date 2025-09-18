@@ -1,0 +1,23 @@
+{
+  "text": " Música",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 21.44,
+      "text": " Música",
+      "tokens": [
+        50364,
+        376,
+        14372,
+        51436
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2575950622558594,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.27891167998313904
+    }
+  ],
+  "language": "pt"
+}

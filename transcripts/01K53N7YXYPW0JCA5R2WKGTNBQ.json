@@ -1,0 +1,24 @@
+{
+  "text": " But first...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.620000000000001,
+      "text": " But first...",
+      "tokens": [
+        50364,
+        583,
+        700,
+        485,
+        50995
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.832441965738932,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.4625430107116699
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,42 @@
+{
+  "text": " Penny ace Thanks for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.9400000000000001,
+      "text": " Penny ace",
+      "tokens": [
+        50364,
+        32009,
+        17117,
+        50411
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -6.359230422973633,
+      "compression_ratio": 0.5294117647058824,
+      "no_speech_prob": 0.5954335927963257
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 41.519999999999996,
+      "text": " Thanks for watching!",
+      "tokens": [
+        50364,
+        2561,
+        337,
+        1976,
+        0,
+        50940
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9776098387581962,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.912259042263031
+    }
+  ],
+  "language": "en"
+}

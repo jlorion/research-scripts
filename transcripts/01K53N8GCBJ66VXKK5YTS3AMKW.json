@@ -1,0 +1,24 @@
+{
+  "text": " 에이 yummy",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " 에이 yummy",
+      "tokens": [
+        50364,
+        20122,
+        1129,
+        18576,
+        50664
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.03870964050293,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.3151710629463196
+    }
+  ],
+  "language": "ko"
+}

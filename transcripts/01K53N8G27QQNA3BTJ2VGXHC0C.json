@@ -1,0 +1,338 @@
+{
+  "text": " Now and forever more Don't listen to them Cause what do they know? We need each other To have it to hold There seems high I know When destiny calls you You must be strong I may not be with you But you've got to hold on There seems high I know Show them together Cause you'll be in my heart Yes, you'll be in my heart From this day on",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Now and forever more",
+      "tokens": [
+        50364,
+        823,
+        293,
+        5680,
+        544,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45540805392795136,
+      "compression_ratio": 1.2075471698113207,
+      "no_speech_prob": 0.5362302660942078
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Don't listen to them",
+      "tokens": [
+        50764,
+        1468,
+        380,
+        2140,
+        281,
+        552,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45540805392795136,
+      "compression_ratio": 1.2075471698113207,
+      "no_speech_prob": 0.5362302660942078
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.0,
+      "end": 13.0,
+      "text": " Cause what do they know?",
+      "tokens": [
+        50914,
+        10865,
+        437,
+        360,
+        436,
+        458,
+        30,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45540805392795136,
+      "compression_ratio": 1.2075471698113207,
+      "no_speech_prob": 0.5362302660942078
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.0,
+      "end": 15.0,
+      "text": " We need each other",
+      "tokens": [
+        51014,
+        492,
+        643,
+        1184,
+        661,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45540805392795136,
+      "compression_ratio": 1.2075471698113207,
+      "no_speech_prob": 0.5362302660942078
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.0,
+      "end": 18.0,
+      "text": " To have it to hold",
+      "tokens": [
+        51164,
+        1407,
+        362,
+        309,
+        281,
+        1797,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45540805392795136,
+      "compression_ratio": 1.2075471698113207,
+      "no_speech_prob": 0.5362302660942078
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.0,
+      "end": 21.0,
+      "text": " There seems high",
+      "tokens": [
+        51264,
+        821,
+        2544,
+        1090,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45540805392795136,
+      "compression_ratio": 1.2075471698113207,
+      "no_speech_prob": 0.5362302660942078
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.0,
+      "end": 25.0,
+      "text": " I know",
+      "tokens": [
+        51514,
+        286,
+        458,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45540805392795136,
+      "compression_ratio": 1.2075471698113207,
+      "no_speech_prob": 0.5362302660942078
+    },
+    {
+      "id": 7,
+      "seek": 2500,
+      "start": 26.0,
+      "end": 30.0,
+      "text": " When destiny calls you",
+      "tokens": [
+        50414,
+        1133,
+        17893,
+        5498,
+        291,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 8,
+      "seek": 2500,
+      "start": 30.0,
+      "end": 33.0,
+      "text": " You must be strong",
+      "tokens": [
+        50614,
+        509,
+        1633,
+        312,
+        2068,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 9,
+      "seek": 2500,
+      "start": 33.0,
+      "end": 35.0,
+      "text": " I may not be with you",
+      "tokens": [
+        50764,
+        286,
+        815,
+        406,
+        312,
+        365,
+        291,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 10,
+      "seek": 2500,
+      "start": 35.0,
+      "end": 38.0,
+      "text": " But you've got to hold on",
+      "tokens": [
+        50864,
+        583,
+        291,
+        600,
+        658,
+        281,
+        1797,
+        322,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 11,
+      "seek": 2500,
+      "start": 38.0,
+      "end": 41.0,
+      "text": " There seems high",
+      "tokens": [
+        51014,
+        821,
+        2544,
+        1090,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 12,
+      "seek": 2500,
+      "start": 42.0,
+      "end": 45.0,
+      "text": " I know",
+      "tokens": [
+        51214,
+        286,
+        458,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 13,
+      "seek": 2500,
+      "start": 46.0,
+      "end": 48.0,
+      "text": " Show them together",
+      "tokens": [
+        51414,
+        6895,
+        552,
+        1214,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 14,
+      "seek": 2500,
+      "start": 48.0,
+      "end": 52.0,
+      "text": " Cause you'll be in my heart",
+      "tokens": [
+        51514,
+        10865,
+        291,
+        603,
+        312,
+        294,
+        452,
+        1917,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.137314240137736,
+      "compression_ratio": 1.3008130081300813,
+      "no_speech_prob": 0.013967912644147873
+    },
+    {
+      "id": 15,
+      "seek": 5200,
+      "start": 53.0,
+      "end": 58.0,
+      "text": " Yes, you'll be in my heart",
+      "tokens": [
+        50414,
+        1079,
+        11,
+        291,
+        603,
+        312,
+        294,
+        452,
+        1917,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29874731512630687,
+      "compression_ratio": 0.8431372549019608,
+      "no_speech_prob": 0.1692049205303192
+    },
+    {
+      "id": 16,
+      "seek": 5200,
+      "start": 58.0,
+      "end": 60.0,
+      "text": " From this day on",
+      "tokens": [
+        50664,
+        3358,
+        341,
+        786,
+        322,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29874731512630687,
+      "compression_ratio": 0.8431372549019608,
+      "no_speech_prob": 0.1692049205303192
+    }
+  ],
+  "language": "en"
+}

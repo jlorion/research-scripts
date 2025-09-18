@@ -1,0 +1,185 @@
+{
+  "text": " Oh, that I want this time I imagine we fell in love On the bottom of the sky with you I think I'll picture us still with the waves The ocean's colors on your face I'll leave my heart with your air So let me fly with you Will you be forever with me?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Oh, that I want this time",
+      "tokens": [
+        50364,
+        876,
+        11,
+        300,
+        286,
+        528,
+        341,
+        565,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3506970966563505,
+      "compression_ratio": 1.4697986577181208,
+      "no_speech_prob": 0.38118094205856323
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.0,
+      "end": 10.0,
+      "text": " I imagine we fell in love",
+      "tokens": [
+        50714,
+        286,
+        3811,
+        321,
+        5696,
+        294,
+        959,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3506970966563505,
+      "compression_ratio": 1.4697986577181208,
+      "no_speech_prob": 0.38118094205856323
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.0,
+      "end": 13.0,
+      "text": " On the bottom of the sky with you",
+      "tokens": [
+        50864,
+        1282,
+        264,
+        2767,
+        295,
+        264,
+        5443,
+        365,
+        291,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3506970966563505,
+      "compression_ratio": 1.4697986577181208,
+      "no_speech_prob": 0.38118094205856323
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.0,
+      "end": 17.0,
+      "text": " I think I'll picture us still with the waves",
+      "tokens": [
+        51014,
+        286,
+        519,
+        286,
+        603,
+        3036,
+        505,
+        920,
+        365,
+        264,
+        9417,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3506970966563505,
+      "compression_ratio": 1.4697986577181208,
+      "no_speech_prob": 0.38118094205856323
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.0,
+      "end": 21.0,
+      "text": " The ocean's colors on your face",
+      "tokens": [
+        51214,
+        440,
+        7810,
+        311,
+        4577,
+        322,
+        428,
+        1851,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3506970966563505,
+      "compression_ratio": 1.4697986577181208,
+      "no_speech_prob": 0.38118094205856323
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.0,
+      "end": 25.0,
+      "text": " I'll leave my heart with your air",
+      "tokens": [
+        51414,
+        286,
+        603,
+        1856,
+        452,
+        1917,
+        365,
+        428,
+        1988,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3506970966563505,
+      "compression_ratio": 1.4697986577181208,
+      "no_speech_prob": 0.38118094205856323
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.0,
+      "end": 28.0,
+      "text": " So let me fly with you",
+      "tokens": [
+        51614,
+        407,
+        718,
+        385,
+        3603,
+        365,
+        291,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3506970966563505,
+      "compression_ratio": 1.4697986577181208,
+      "no_speech_prob": 0.38118094205856323
+    },
+    {
+      "id": 7,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 34.0,
+      "text": " Will you be forever with me?",
+      "tokens": [
+        50364,
+        3099,
+        291,
+        312,
+        5680,
+        365,
+        385,
+        30,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14281754493713378,
+      "compression_ratio": 0.7777777777777778,
+      "no_speech_prob": 0.056017279624938965
+    }
+  ],
+  "language": "en"
+}

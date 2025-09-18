@@ -1,0 +1,78 @@
+{
+  "text": " Аки膠 БnięCU Qin Cui G petits",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.92,
+      "text": " Аки膠",
+      "tokens": [
+        50364,
+        3450,
+        2241,
+        39708,
+        254,
+        50610
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.881256797096946,
+      "compression_ratio": 0.7954545454545454,
+      "no_speech_prob": 0.3246644139289856
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.0,
+      "end": 12.72,
+      "text": " БnięCU",
+      "tokens": [
+        50764,
+        5697,
+        35938,
+        25864,
+        51000
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.881256797096946,
+      "compression_ratio": 0.7954545454545454,
+      "no_speech_prob": 0.3246644139289856
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.52,
+      "end": 17.52,
+      "text": " Qin Cui",
+      "tokens": [
+        51040,
+        26999,
+        383,
+        3077,
+        51240
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.881256797096946,
+      "compression_ratio": 0.7954545454545454,
+      "no_speech_prob": 0.3246644139289856
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.84,
+      "end": 22.28,
+      "text": " G petits",
+      "tokens": [
+        51306,
+        460,
+        26487,
+        51478
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.881256797096946,
+      "compression_ratio": 0.7954545454545454,
+      "no_speech_prob": 0.3246644139289856
+    }
+  ],
+  "language": "ru"
+}

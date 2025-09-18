@@ -1,0 +1,79 @@
+{
+  "text": " Palagang 3-7B Des ㅋㅋㅋ Patar composed heute",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Palagang 3-7B",
+      "tokens": [
+        50364,
+        6116,
+        559,
+        656,
+        805,
+        12,
+        22,
+        33,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.883376411769701,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.4783175587654114
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Des ㅋㅋㅋ",
+      "tokens": [
+        50664,
+        3885,
+        49249,
+        50764
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.883376411769701,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.4783175587654114
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 12.0,
+      "text": " Patar composed",
+      "tokens": [
+        50764,
+        4379,
+        289,
+        18204,
+        50964
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.883376411769701,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.4783175587654114
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 24.0,
+      "end": 26.6,
+      "text": " heute",
+      "tokens": [
+        51564,
+        9801,
+        51694
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.883376411769701,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.4783175587654114
+    }
+  ],
+  "language": "tl"
+}

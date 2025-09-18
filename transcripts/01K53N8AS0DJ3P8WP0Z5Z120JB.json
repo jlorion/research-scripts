@@ -1,0 +1,115 @@
+{
+  "text": " Oh sige nga pumunta ka nga kung malakas ka Oh oh oh oh oh takot Lag! Naglalag! Naglalag!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh sige nga pumunta ka nga kung malakas ka",
+      "tokens": [
+        50364,
+        876,
+        262,
+        3969,
+        297,
+        3680,
+        48842,
+        46380,
+        6799,
+        297,
+        3680,
+        49304,
+        2806,
+        514,
+        296,
+        6799,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3987235599093967,
+      "compression_ratio": 1.2571428571428571,
+      "no_speech_prob": 0.2629319727420807
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Oh oh oh oh oh takot",
+      "tokens": [
+        50464,
+        876,
+        1954,
+        1954,
+        1954,
+        1954,
+        991,
+        310,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3987235599093967,
+      "compression_ratio": 1.2571428571428571,
+      "no_speech_prob": 0.2629319727420807
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.0,
+      "end": 7.5,
+      "text": " Lag!",
+      "tokens": [
+        50714,
+        24886,
+        0,
+        50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3987235599093967,
+      "compression_ratio": 1.2571428571428571,
+      "no_speech_prob": 0.2629319727420807
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.5,
+      "end": 9.0,
+      "text": " Naglalag!",
+      "tokens": [
+        50789,
+        18913,
+        75,
+        304,
+        559,
+        0,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3987235599093967,
+      "compression_ratio": 1.2571428571428571,
+      "no_speech_prob": 0.2629319727420807
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.5,
+      "end": 10.0,
+      "text": " Naglalag!",
+      "tokens": [
+        50839,
+        18913,
+        75,
+        304,
+        559,
+        0,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3987235599093967,
+      "compression_ratio": 1.2571428571428571,
+      "no_speech_prob": 0.2629319727420807
+    }
+  ],
+  "language": "tl"
+}

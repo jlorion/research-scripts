@@ -1,0 +1,170 @@
+{
+  "text": " Pag milan? Ay maaya mo Ha? Guso ko? Ha? Pag milan? Pag milan? 20 pesos lang Bakit? Pag milan lagan Ito? Hulu",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pag milan?",
+      "tokens": [
+        50364,
+        430,
+        559,
+        1962,
+        282,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Ay maaya mo",
+      "tokens": [
+        50464,
+        9081,
+        463,
+        4427,
+        705,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Ha? Guso ko?",
+      "tokens": [
+        50564,
+        4064,
+        30,
+        460,
+        24431,
+        8384,
+        30,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Ha?",
+      "tokens": [
+        50664,
+        4064,
+        30,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Pag milan? Pag milan?",
+      "tokens": [
+        50764,
+        430,
+        559,
+        1962,
+        282,
+        30,
+        430,
+        559,
+        1962,
+        282,
+        30,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.0,
+      "text": " 20 pesos lang",
+      "tokens": [
+        50864,
+        945,
+        33204,
+        2265,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Bakit? Pag milan lagan",
+      "tokens": [
+        50964,
+        12063,
+        270,
+        30,
+        430,
+        559,
+        1962,
+        282,
+        287,
+        14167,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 14.0,
+      "end": 16.0,
+      "text": " Ito? Hulu",
+      "tokens": [
+        51064,
+        467,
+        78,
+        30,
+        389,
+        12845,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5987673274806289,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.33571311831474304
+    }
+  ],
+  "language": "tl"
+}

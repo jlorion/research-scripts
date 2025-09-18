@@ -1,0 +1,22 @@
+{
+  "text": " ang",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 22.2,
+      "text": " ang",
+      "tokens": [
+        50364,
+        2562,
+        51474
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7285640716552733,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.2865334451198578
+    }
+  ],
+  "language": "tl"
+}

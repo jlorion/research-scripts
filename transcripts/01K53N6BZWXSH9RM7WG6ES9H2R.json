@@ -1,0 +1,165 @@
+{
+  "text": " Hai, Mami Jopeta. Tino Udbanga. Sa Jopetel, Dawkan naga uli. Kada Martis ubire selamat setubag. Mami pagtu unimun aku. Mana nanggal?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hai, Mami Jopeta.",
+      "tokens": [
+        50364,
+        24055,
+        11,
+        376,
+        4526,
+        508,
+        404,
+        7664,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235369806704314,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.32540205121040344
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Tino Udbanga.",
+      "tokens": [
+        50464,
+        314,
+        2982,
+        624,
+        67,
+        65,
+        26005,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235369806704314,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.32540205121040344
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Sa Jopetel,",
+      "tokens": [
+        50564,
+        6299,
+        508,
+        404,
+        302,
+        338,
+        11,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235369806704314,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.32540205121040344
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Dawkan naga uli.",
+      "tokens": [
+        50664,
+        28407,
+        5225,
+        297,
+        9286,
+        344,
+        2081,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235369806704314,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.32540205121040344
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Kada Martis ubire selamat setubag.",
+      "tokens": [
+        50764,
+        591,
+        1538,
+        5807,
+        271,
+        26709,
+        621,
+        5851,
+        39143,
+        992,
+        836,
+        559,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235369806704314,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.32540205121040344
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.0,
+      "text": " Mami pagtu unimun aku.",
+      "tokens": [
+        50864,
+        376,
+        4526,
+        11812,
+        9179,
+        517,
+        332,
+        409,
+        21093,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235369806704314,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.32540205121040344
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Mana nanggal?",
+      "tokens": [
+        50964,
+        33711,
+        297,
+        656,
+        9800,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235369806704314,
+      "compression_ratio": 1.1891891891891893,
+      "no_speech_prob": 0.32540205121040344
+    }
+  ],
+  "language": "jw"
+}

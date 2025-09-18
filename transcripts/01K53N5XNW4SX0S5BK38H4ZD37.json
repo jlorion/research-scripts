@@ -1,0 +1,85 @@
+{
+  "text": " ATTENTION!! Every Valentinemark comment 45 degree never forget our FASHION L it",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.68,
+      "end": 3.3200000000000003,
+      "text": " ATTENTION!!",
+      "tokens": [
+        50398,
+        8872,
+        51,
+        2195,
+        7413,
+        1432,
+        50530
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.069531576974051,
+      "compression_ratio": 0.9404761904761905,
+      "no_speech_prob": 0.37362515926361084
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.3200000000000003,
+      "end": 6.46,
+      "text": " Every Valentinemark comment 45 degree",
+      "tokens": [
+        50530,
+        2048,
+        24359,
+        5638,
+        2871,
+        6905,
+        4314,
+        50687
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.069531576974051,
+      "compression_ratio": 0.9404761904761905,
+      "no_speech_prob": 0.37362515926361084
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.46,
+      "end": 8.28,
+      "text": " never forget our",
+      "tokens": [
+        50687,
+        1128,
+        2870,
+        527,
+        50778
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.069531576974051,
+      "compression_ratio": 0.9404761904761905,
+      "no_speech_prob": 0.37362515926361084
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.3,
+      "end": 11.28,
+      "text": " FASHION L it",
+      "tokens": [
+        50779,
+        479,
+        24036,
+        12841,
+        441,
+        309,
+        50928
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.069531576974051,
+      "compression_ratio": 0.9404761904761905,
+      "no_speech_prob": 0.37362515926361084
+    }
+  ],
+  "language": "en"
+}

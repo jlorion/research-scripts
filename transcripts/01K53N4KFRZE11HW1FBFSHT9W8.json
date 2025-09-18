@@ -1,0 +1,107 @@
+{
+  "text": " Iyan, maya ang mga surfing nawa, wala nang karyang na e. Yeah! Ano, nakikita rin mo? Ang lucky number ay 628!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Iyan, maya ang mga surfing nawa, wala nang karyang na e.",
+      "tokens": [
+        50364,
+        286,
+        6277,
+        11,
+        815,
+        64,
+        2562,
+        275,
+        3680,
+        34181,
+        297,
+        10449,
+        11,
+        261,
+        5159,
+        297,
+        656,
+        350,
+        822,
+        656,
+        1667,
+        308,
+        13,
+        50514
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.48394785563151044,
+      "compression_ratio": 1.9955947136563876,
+      "no_speech_prob": 0.41820839047431946
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 4.0,
+      "text": " Yeah!",
+      "tokens": [
+        50514,
+        865,
+        0,
+        50564
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.48394785563151044,
+      "compression_ratio": 1.9955947136563876,
+      "no_speech_prob": 0.41820839047431946
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 5.0,
+      "text": " Ano, nakikita rin mo?",
+      "tokens": [
+        50564,
+        1107,
+        78,
+        11,
+        20332,
+        1035,
+        2786,
+        367,
+        259,
+        705,
+        30,
+        50614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.48394785563151044,
+      "compression_ratio": 1.9955947136563876,
+      "no_speech_prob": 0.41820839047431946
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.0,
+      "end": 7.0,
+      "text": " Ang lucky number ay 628!",
+      "tokens": [
+        50614,
+        4521,
+        6356,
+        1230,
+        7494,
+        1386,
+        11205,
+        0,
+        50714
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.48394785563151044,
+      "compression_ratio": 1.9955947136563876,
+      "no_speech_prob": 0.41820839047431946
+    }
+  ],
+  "language": "tl"
+}

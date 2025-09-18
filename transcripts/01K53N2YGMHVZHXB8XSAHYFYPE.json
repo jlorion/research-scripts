@@ -1,0 +1,24 @@
+{
+  "text": " To finish,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 28.240000000000002,
+      "text": " To finish,",
+      "tokens": [
+        50364,
+        1407,
+        2413,
+        11,
+        51776
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.337608337402344,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.4388321340084076
+    }
+  ],
+  "language": "en"
+}

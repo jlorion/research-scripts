@@ -1,0 +1,38 @@
+{
+  "text": " Kalau Pero",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 18.86,
+      "text": " Kalau",
+      "tokens": [
+        50364,
+        36366,
+        51307
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.880189623151507,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.15716156363487244
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 18.86,
+      "end": 19.66,
+      "text": " Pero",
+      "tokens": [
+        51307,
+        9377,
+        51347
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.880189623151507,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.15716156363487244
+    }
+  ],
+  "language": "tl"
+}

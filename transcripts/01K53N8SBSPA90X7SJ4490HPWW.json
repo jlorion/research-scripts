@@ -1,0 +1,109 @@
+{
+  "text": " Nang matakos na kami ang sabi niya Bago ang sarap mo One the night And the light has come Has come",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.88,
+      "text": " Nang matakos na kami ang sabi niya",
+      "tokens": [
+        50364,
+        426,
+        656,
+        3803,
+        514,
+        329,
+        1667,
+        34502,
+        2562,
+        5560,
+        72,
+        3867,
+        3016,
+        50508
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5329134036333133,
+      "compression_ratio": 1.240506329113924,
+      "no_speech_prob": 0.20050401985645294
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.88,
+      "end": 4.08,
+      "text": " Bago ang sarap mo",
+      "tokens": [
+        50508,
+        363,
+        6442,
+        2562,
+        13782,
+        569,
+        705,
+        50568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5329134036333133,
+      "compression_ratio": 1.240506329113924,
+      "no_speech_prob": 0.20050401985645294
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.08,
+      "end": 5.08,
+      "text": " One the night",
+      "tokens": [
+        50568,
+        1485,
+        264,
+        1818,
+        50618
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5329134036333133,
+      "compression_ratio": 1.240506329113924,
+      "no_speech_prob": 0.20050401985645294
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.08,
+      "end": 7.08,
+      "text": " And the light has come",
+      "tokens": [
+        50618,
+        400,
+        264,
+        1442,
+        575,
+        808,
+        50718
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5329134036333133,
+      "compression_ratio": 1.240506329113924,
+      "no_speech_prob": 0.20050401985645294
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.08,
+      "end": 8.08,
+      "text": " Has come",
+      "tokens": [
+        50718,
+        8646,
+        808,
+        50768
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5329134036333133,
+      "compression_ratio": 1.240506329113924,
+      "no_speech_prob": 0.20050401985645294
+    }
+  ],
+  "language": "tl"
+}

@@ -1,0 +1,2775 @@
+{
+  "text": " Im Taho Hindi Magay Hindi Ayaw Oo Land Puede Air Puede Ibon Hindi Is Duck Hindi Malaki Hindi Malit Oo Bubule Hindi Lizard Hindi Pipaklong Hindi Zek Oo Oo Zek Oo Packroads Hindi Eh Hindi Pipaklong Hindi Antidept Bubuyong Hindi Bubule Hindi Salaguban Oo Oo Oo Ayaw Anit Taho Oo Oo NASA TV Oo Local Oo Mi YouTube Channel Oo Ah Puede Bars Danda Hindi Ha Ha Ha May pala ba siya na yun? Oo Sa Channel 2 Mm-mm Kitabang ko lang Hindi Balita Hindi Sa gabi Bars Danda Minsan Tsh Ha Showtime NASA Showtime Hindi Channel 2 Ha Or 3 2 Anong dili? Oo Ting Dating lustre Wala naman siyang palapas ng yearon Sa Channel 2 Wala Oo Napikisin Mm Mm Kadali Oo Hindi Badaik Hindi Ha Hindi Pogain Oo Manabig Hindi Sayina Oo Pogain Blum Hindi Miliyenda Oo Isitik Hindi Spice Hindi Kwek-kwek Hindi Banana fruit Hindi Ha Hindi Oo Hindi Samotik Hindi Miliyenda Oo Hal-hal Hindi Bala kong nyelo Hindi Mainit Pade Mananig sa Hindi Sa halid kinakain mo dala Pade Miliyenda Oo Oo Hotdom Hindi Fresh spice Hindi Kwek-kwek Malena piyu Hindi Bukbo Hindi De-ol Hindi Oplot Hindi Ha Ha Maelf Hindi Malik Hindi",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.5,
+      "text": " Im",
+      "tokens": [
+        50364,
+        4331,
+        50389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.58,
+      "end": 3.08,
+      "text": " Taho",
+      "tokens": [
+        50493,
+        314,
+        25825,
+        50518
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.08,
+      "end": 3.58,
+      "text": " Hindi",
+      "tokens": [
+        50518,
+        36225,
+        50543
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.58,
+      "end": 4.08,
+      "text": " Magay",
+      "tokens": [
+        50543,
+        6395,
+        320,
+        50568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 4.08,
+      "end": 4.58,
+      "text": " Hindi",
+      "tokens": [
+        50568,
+        36225,
+        50593
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 4.58,
+      "end": 5.08,
+      "text": " Ayaw",
+      "tokens": [
+        50593,
+        9081,
+        1607,
+        50618
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 5.08,
+      "end": 5.58,
+      "text": " Oo",
+      "tokens": [
+        50618,
+        39308,
+        50643
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 6.08,
+      "end": 6.58,
+      "text": " Land",
+      "tokens": [
+        50668,
+        6607,
+        50693
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 7.44,
+      "end": 7.94,
+      "text": " Puede",
+      "tokens": [
+        50736,
+        13605,
+        4858,
+        50761
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 8.540000000000001,
+      "end": 9.040000000000001,
+      "text": " Air",
+      "tokens": [
+        50791,
+        5774,
+        50816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 9.040000000000001,
+      "end": 9.540000000000001,
+      "text": " Puede",
+      "tokens": [
+        50816,
+        13605,
+        4858,
+        50841
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 11.040000000000001,
+      "end": 11.540000000000001,
+      "text": " Ibon",
+      "tokens": [
+        50916,
+        286,
+        4351,
+        50941
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 12.040000000000001,
+      "end": 12.540000000000001,
+      "text": " Hindi",
+      "tokens": [
+        50966,
+        36225,
+        50991
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 16.16,
+      "end": 16.66,
+      "text": " Is Duck",
+      "tokens": [
+        51172,
+        1119,
+        29266,
+        51197
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 16.66,
+      "end": 17.16,
+      "text": " Hindi",
+      "tokens": [
+        51197,
+        36225,
+        51222
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 19.740000000000002,
+      "end": 20.240000000000002,
+      "text": " Malaki",
+      "tokens": [
+        51351,
+        5746,
+        7421,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 16,
+      "seek": 0,
+      "start": 20.240000000000002,
+      "end": 20.740000000000002,
+      "text": " Hindi",
+      "tokens": [
+        51376,
+        36225,
+        51401
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 17,
+      "seek": 0,
+      "start": 20.740000000000002,
+      "end": 21.240000000000002,
+      "text": " Malit",
+      "tokens": [
+        51401,
+        5746,
+        270,
+        51426
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 18,
+      "seek": 0,
+      "start": 21.240000000000002,
+      "end": 21.740000000000002,
+      "text": " Oo",
+      "tokens": [
+        51426,
+        39308,
+        51451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 19,
+      "seek": 0,
+      "start": 22.92,
+      "end": 23.42,
+      "text": " Bubule",
+      "tokens": [
+        51510,
+        25489,
+        2271,
+        51535
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 20,
+      "seek": 0,
+      "start": 24.22,
+      "end": 24.72,
+      "text": " Hindi",
+      "tokens": [
+        51575,
+        36225,
+        51600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 21,
+      "seek": 0,
+      "start": 25.26,
+      "end": 25.76,
+      "text": " Lizard",
+      "tokens": [
+        51627,
+        16480,
+        515,
+        51652
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 22,
+      "seek": 0,
+      "start": 25.76,
+      "end": 26.26,
+      "text": " Hindi",
+      "tokens": [
+        51652,
+        36225,
+        51677
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 23,
+      "seek": 0,
+      "start": 27.62,
+      "end": 28.12,
+      "text": " Pipaklong",
+      "tokens": [
+        51745,
+        35396,
+        514,
+        13025,
+        51770
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 24,
+      "seek": 0,
+      "start": 29.0,
+      "end": 29.5,
+      "text": " Hindi",
+      "tokens": [
+        51814,
+        36225,
+        51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5915978749593099,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.2404024749994278
+    },
+    {
+      "id": 25,
+      "seek": 2950,
+      "start": 29.5,
+      "end": 30.0,
+      "text": " Zek",
+      "tokens": [
+        50364,
+        1176,
+        916,
+        50389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 26,
+      "seek": 2950,
+      "start": 30.0,
+      "end": 30.5,
+      "text": " Oo",
+      "tokens": [
+        50389,
+        39308,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 27,
+      "seek": 2950,
+      "start": 30.5,
+      "end": 31.0,
+      "text": " Oo",
+      "tokens": [
+        50414,
+        39308,
+        50439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 28,
+      "seek": 2950,
+      "start": 31.0,
+      "end": 31.5,
+      "text": " Zek",
+      "tokens": [
+        50439,
+        1176,
+        916,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 29,
+      "seek": 2950,
+      "start": 31.5,
+      "end": 32.0,
+      "text": " Oo",
+      "tokens": [
+        50464,
+        39308,
+        50489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 30,
+      "seek": 2950,
+      "start": 32.5,
+      "end": 33.0,
+      "text": " Packroads",
+      "tokens": [
+        50514,
+        18466,
+        30342,
+        50539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 31,
+      "seek": 2950,
+      "start": 33.0,
+      "end": 33.5,
+      "text": " Hindi",
+      "tokens": [
+        50539,
+        36225,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 32,
+      "seek": 2950,
+      "start": 33.5,
+      "end": 34.0,
+      "text": " Eh",
+      "tokens": [
+        50564,
+        9663,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 33,
+      "seek": 2950,
+      "start": 36.5,
+      "end": 37.0,
+      "text": " Hindi",
+      "tokens": [
+        50714,
+        36225,
+        50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 34,
+      "seek": 2950,
+      "start": 37.0,
+      "end": 37.5,
+      "text": " Pipaklong",
+      "tokens": [
+        50739,
+        35396,
+        514,
+        13025,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 35,
+      "seek": 2950,
+      "start": 38.0,
+      "end": 38.5,
+      "text": " Hindi",
+      "tokens": [
+        50789,
+        36225,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 36,
+      "seek": 2950,
+      "start": 38.5,
+      "end": 39.0,
+      "text": " Antidept",
+      "tokens": [
+        50814,
+        5130,
+        482,
+        662,
+        50839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 37,
+      "seek": 2950,
+      "start": 39.5,
+      "end": 40.0,
+      "text": " Bubuyong",
+      "tokens": [
+        50864,
+        25489,
+        7493,
+        556,
+        50889
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 38,
+      "seek": 2950,
+      "start": 40.5,
+      "end": 41.0,
+      "text": " Hindi",
+      "tokens": [
+        50914,
+        36225,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 39,
+      "seek": 2950,
+      "start": 41.0,
+      "end": 41.5,
+      "text": " Bubule",
+      "tokens": [
+        50939,
+        25489,
+        2271,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 40,
+      "seek": 2950,
+      "start": 41.5,
+      "end": 42.0,
+      "text": " Hindi",
+      "tokens": [
+        50964,
+        36225,
+        50989
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 41,
+      "seek": 2950,
+      "start": 43.5,
+      "end": 44.0,
+      "text": " Salaguban",
+      "tokens": [
+        51064,
+        5996,
+        559,
+        836,
+        282,
+        51089
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 42,
+      "seek": 2950,
+      "start": 44.0,
+      "end": 44.5,
+      "text": " Oo",
+      "tokens": [
+        51089,
+        39308,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 43,
+      "seek": 2950,
+      "start": 44.5,
+      "end": 45.0,
+      "text": " Oo",
+      "tokens": [
+        51114,
+        39308,
+        51139
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 44,
+      "seek": 2950,
+      "start": 45.0,
+      "end": 45.5,
+      "text": " Oo",
+      "tokens": [
+        51139,
+        39308,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 45,
+      "seek": 2950,
+      "start": 46.0,
+      "end": 46.5,
+      "text": " Ayaw",
+      "tokens": [
+        51189,
+        9081,
+        1607,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 46,
+      "seek": 2950,
+      "start": 46.5,
+      "end": 47.0,
+      "text": " Anit",
+      "tokens": [
+        51214,
+        1107,
+        270,
+        51239
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 47,
+      "seek": 2950,
+      "start": 47.5,
+      "end": 48.0,
+      "text": " Taho",
+      "tokens": [
+        51264,
+        314,
+        25825,
+        51289
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 48,
+      "seek": 2950,
+      "start": 48.0,
+      "end": 48.5,
+      "text": " Oo",
+      "tokens": [
+        51289,
+        39308,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 49,
+      "seek": 2950,
+      "start": 48.5,
+      "end": 49.0,
+      "text": " Oo",
+      "tokens": [
+        51314,
+        39308,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 50,
+      "seek": 2950,
+      "start": 50.5,
+      "end": 51.0,
+      "text": " NASA TV",
+      "tokens": [
+        51414,
+        12077,
+        3558,
+        51439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 51,
+      "seek": 2950,
+      "start": 51.0,
+      "end": 51.5,
+      "text": " Oo",
+      "tokens": [
+        51439,
+        39308,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 52,
+      "seek": 2950,
+      "start": 52.0,
+      "end": 52.5,
+      "text": " Local",
+      "tokens": [
+        51489,
+        22755,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 53,
+      "seek": 2950,
+      "start": 52.5,
+      "end": 53.0,
+      "text": " Oo",
+      "tokens": [
+        51514,
+        39308,
+        51539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 54,
+      "seek": 2950,
+      "start": 58.0,
+      "end": 58.5,
+      "text": " Mi YouTube Channel",
+      "tokens": [
+        51789,
+        10204,
+        3088,
+        13553,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4886170464593011,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.012249971739947796
+    },
+    {
+      "id": 55,
+      "seek": 5850,
+      "start": 58.5,
+      "end": 59.0,
+      "text": " Oo",
+      "tokens": [
+        50364,
+        39308,
+        50389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 56,
+      "seek": 5850,
+      "start": 60.0,
+      "end": 60.5,
+      "text": " Ah",
+      "tokens": [
+        50439,
+        2438,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 57,
+      "seek": 5850,
+      "start": 60.5,
+      "end": 61.0,
+      "text": " Puede",
+      "tokens": [
+        50464,
+        13605,
+        4858,
+        50489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 58,
+      "seek": 5850,
+      "start": 62.0,
+      "end": 62.5,
+      "text": " Bars Danda",
+      "tokens": [
+        50539,
+        363,
+        685,
+        413,
+        5575,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 59,
+      "seek": 5850,
+      "start": 62.5,
+      "end": 63.0,
+      "text": " Hindi",
+      "tokens": [
+        50564,
+        36225,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 60,
+      "seek": 5850,
+      "start": 63.0,
+      "end": 63.5,
+      "text": " Ha",
+      "tokens": [
+        50589,
+        4064,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 61,
+      "seek": 5850,
+      "start": 63.5,
+      "end": 64.0,
+      "text": " Ha",
+      "tokens": [
+        50614,
+        4064,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 62,
+      "seek": 5850,
+      "start": 64.0,
+      "end": 64.5,
+      "text": " Ha",
+      "tokens": [
+        50639,
+        4064,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 63,
+      "seek": 5850,
+      "start": 65.5,
+      "end": 66.5,
+      "text": " May pala ba siya na yun?",
+      "tokens": [
+        50714,
+        1891,
+        3984,
+        64,
+        4773,
+        1511,
+        3016,
+        1667,
+        288,
+        409,
+        30,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 64,
+      "seek": 5850,
+      "start": 66.5,
+      "end": 67.0,
+      "text": " Oo",
+      "tokens": [
+        50764,
+        39308,
+        50789
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 65,
+      "seek": 5850,
+      "start": 69.0,
+      "end": 69.5,
+      "text": " Sa",
+      "tokens": [
+        50889,
+        6299,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 66,
+      "seek": 5850,
+      "start": 69.5,
+      "end": 70.0,
+      "text": " Channel 2",
+      "tokens": [
+        50914,
+        13553,
+        568,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 67,
+      "seek": 5850,
+      "start": 70.5,
+      "end": 71.0,
+      "text": " Mm-mm",
+      "tokens": [
+        50964,
+        8266,
+        12,
+        2174,
+        50989
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 68,
+      "seek": 5850,
+      "start": 73.0,
+      "end": 73.5,
+      "text": " Kitabang ko lang",
+      "tokens": [
+        51089,
+        23037,
+        455,
+        656,
+        8384,
+        2265,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 69,
+      "seek": 5850,
+      "start": 73.5,
+      "end": 74.0,
+      "text": " Hindi",
+      "tokens": [
+        51114,
+        36225,
+        51139
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 70,
+      "seek": 5850,
+      "start": 74.5,
+      "end": 75.0,
+      "text": " Balita",
+      "tokens": [
+        51164,
+        13140,
+        2786,
+        51189
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 71,
+      "seek": 5850,
+      "start": 75.0,
+      "end": 75.5,
+      "text": " Hindi",
+      "tokens": [
+        51189,
+        36225,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 72,
+      "seek": 5850,
+      "start": 76.5,
+      "end": 77.0,
+      "text": " Sa gabi",
+      "tokens": [
+        51264,
+        6299,
+        17964,
+        72,
+        51289
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 73,
+      "seek": 5850,
+      "start": 78.0,
+      "end": 78.5,
+      "text": " Bars Danda",
+      "tokens": [
+        51339,
+        363,
+        685,
+        413,
+        5575,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 74,
+      "seek": 5850,
+      "start": 78.5,
+      "end": 79.0,
+      "text": " Minsan",
+      "tokens": [
+        51364,
+        49239,
+        282,
+        51389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 75,
+      "seek": 5850,
+      "start": 79.0,
+      "end": 79.5,
+      "text": " Tsh",
+      "tokens": [
+        51389,
+        314,
+        2716,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 76,
+      "seek": 5850,
+      "start": 80.5,
+      "end": 81.0,
+      "text": " Ha",
+      "tokens": [
+        51464,
+        4064,
+        51489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 77,
+      "seek": 5850,
+      "start": 81.0,
+      "end": 81.5,
+      "text": " Showtime",
+      "tokens": [
+        51489,
+        6895,
+        3766,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 78,
+      "seek": 5850,
+      "start": 82.0,
+      "end": 82.5,
+      "text": " NASA Showtime",
+      "tokens": [
+        51539,
+        12077,
+        6895,
+        3766,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 79,
+      "seek": 5850,
+      "start": 82.5,
+      "end": 83.0,
+      "text": " Hindi",
+      "tokens": [
+        51564,
+        36225,
+        51589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 80,
+      "seek": 5850,
+      "start": 85.5,
+      "end": 86.0,
+      "text": " Channel 2",
+      "tokens": [
+        51714,
+        13553,
+        568,
+        51739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 81,
+      "seek": 5850,
+      "start": 86.5,
+      "end": 87.0,
+      "text": " Ha",
+      "tokens": [
+        51764,
+        4064,
+        51789
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 82,
+      "seek": 5850,
+      "start": 87.5,
+      "end": 88.0,
+      "text": " Or",
+      "tokens": [
+        51814,
+        1610,
+        51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.519532155182402,
+      "compression_ratio": 1.434782608695652,
+      "no_speech_prob": 0.032421477138996124
+    },
+    {
+      "id": 83,
+      "seek": 8800,
+      "start": 88.0,
+      "end": 88.5,
+      "text": " 3",
+      "tokens": [
+        50364,
+        805,
+        50389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 84,
+      "seek": 8800,
+      "start": 89.0,
+      "end": 89.5,
+      "text": " 2",
+      "tokens": [
+        50414,
+        568,
+        50439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 85,
+      "seek": 8800,
+      "start": 89.5,
+      "end": 90.0,
+      "text": " Anong dili?",
+      "tokens": [
+        50439,
+        1107,
+        556,
+        274,
+        2312,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 86,
+      "seek": 8800,
+      "start": 90.0,
+      "end": 90.5,
+      "text": " Oo",
+      "tokens": [
+        50464,
+        39308,
+        50489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 87,
+      "seek": 8800,
+      "start": 91.0,
+      "end": 91.5,
+      "text": " Ting",
+      "tokens": [
+        50514,
+        43196,
+        50539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 88,
+      "seek": 8800,
+      "start": 91.5,
+      "end": 92.5,
+      "text": " Dating lustre",
+      "tokens": [
+        50539,
+        413,
+        990,
+        24672,
+        265,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 89,
+      "seek": 8800,
+      "start": 93.0,
+      "end": 95.0,
+      "text": " Wala naman siyang palapas ng yearon",
+      "tokens": [
+        50614,
+        343,
+        5159,
+        297,
+        6147,
+        1511,
+        23594,
+        3984,
+        569,
+        296,
+        6415,
+        1064,
+        266,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 90,
+      "seek": 8800,
+      "start": 95.5,
+      "end": 96.0,
+      "text": " Sa",
+      "tokens": [
+        50739,
+        6299,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 91,
+      "seek": 8800,
+      "start": 96.0,
+      "end": 96.5,
+      "text": " Channel 2",
+      "tokens": [
+        50764,
+        13553,
+        568,
+        50789
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 92,
+      "seek": 8800,
+      "start": 96.5,
+      "end": 97.0,
+      "text": " Wala",
+      "tokens": [
+        50789,
+        343,
+        5159,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 93,
+      "seek": 8800,
+      "start": 97.0,
+      "end": 97.5,
+      "text": " Oo",
+      "tokens": [
+        50814,
+        39308,
+        50839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 94,
+      "seek": 8800,
+      "start": 97.5,
+      "end": 98.0,
+      "text": " Napikisin",
+      "tokens": [
+        50839,
+        18287,
+        1035,
+        271,
+        259,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 95,
+      "seek": 8800,
+      "start": 98.0,
+      "end": 98.5,
+      "text": " Mm",
+      "tokens": [
+        50864,
+        8266,
+        50889
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 96,
+      "seek": 8800,
+      "start": 98.5,
+      "end": 99.0,
+      "text": " Mm",
+      "tokens": [
+        50889,
+        8266,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 97,
+      "seek": 8800,
+      "start": 104.5,
+      "end": 105.0,
+      "text": " Kadali",
+      "tokens": [
+        51189,
+        32248,
+        5103,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 98,
+      "seek": 8800,
+      "start": 106.0,
+      "end": 106.5,
+      "text": " Oo",
+      "tokens": [
+        51264,
+        39308,
+        51289
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 99,
+      "seek": 8800,
+      "start": 106.5,
+      "end": 107.0,
+      "text": " Hindi",
+      "tokens": [
+        51289,
+        36225,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 100,
+      "seek": 8800,
+      "start": 107.0,
+      "end": 107.5,
+      "text": " Badaik",
+      "tokens": [
+        51314,
+        363,
+        1538,
+        1035,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 101,
+      "seek": 8800,
+      "start": 107.5,
+      "end": 108.0,
+      "text": " Hindi",
+      "tokens": [
+        51339,
+        36225,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 102,
+      "seek": 8800,
+      "start": 108.0,
+      "end": 108.5,
+      "text": " Ha",
+      "tokens": [
+        51364,
+        4064,
+        51389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 103,
+      "seek": 8800,
+      "start": 108.5,
+      "end": 109.0,
+      "text": " Hindi",
+      "tokens": [
+        51389,
+        36225,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 104,
+      "seek": 8800,
+      "start": 109.5,
+      "end": 110.0,
+      "text": " Pogain",
+      "tokens": [
+        51439,
+        430,
+        664,
+        491,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 105,
+      "seek": 8800,
+      "start": 110.0,
+      "end": 110.5,
+      "text": " Oo",
+      "tokens": [
+        51464,
+        39308,
+        51489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 106,
+      "seek": 8800,
+      "start": 111.0,
+      "end": 111.5,
+      "text": " Manabig",
+      "tokens": [
+        51514,
+        2458,
+        455,
+        328,
+        51539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 107,
+      "seek": 8800,
+      "start": 112.0,
+      "end": 112.5,
+      "text": " Hindi",
+      "tokens": [
+        51564,
+        36225,
+        51589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 108,
+      "seek": 8800,
+      "start": 112.5,
+      "end": 113.0,
+      "text": " Sayina",
+      "tokens": [
+        51589,
+        6463,
+        1426,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 109,
+      "seek": 8800,
+      "start": 113.0,
+      "end": 113.5,
+      "text": " Oo",
+      "tokens": [
+        51614,
+        39308,
+        51639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 110,
+      "seek": 8800,
+      "start": 113.5,
+      "end": 114.0,
+      "text": " Pogain",
+      "tokens": [
+        51639,
+        430,
+        664,
+        491,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 111,
+      "seek": 8800,
+      "start": 114.0,
+      "end": 114.5,
+      "text": " Blum",
+      "tokens": [
+        51664,
+        2177,
+        449,
+        51689
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 112,
+      "seek": 8800,
+      "start": 114.5,
+      "end": 115.0,
+      "text": " Hindi",
+      "tokens": [
+        51689,
+        36225,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 113,
+      "seek": 8800,
+      "start": 115.5,
+      "end": 116.0,
+      "text": " Miliyenda",
+      "tokens": [
+        51739,
+        376,
+        2312,
+        88,
+        7639,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 114,
+      "seek": 8800,
+      "start": 116.5,
+      "end": 117.0,
+      "text": " Oo",
+      "tokens": [
+        51789,
+        39308,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 115,
+      "seek": 8800,
+      "start": 117.0,
+      "end": 117.5,
+      "text": " Isitik",
+      "tokens": [
+        51814,
+        1119,
+        270,
+        1035,
+        51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.424313109261649,
+      "compression_ratio": 1.4666666666666666,
+      "no_speech_prob": 0.0027538109570741653
+    },
+    {
+      "id": 116,
+      "seek": 11750,
+      "start": 117.5,
+      "end": 118.0,
+      "text": " Hindi",
+      "tokens": [
+        50364,
+        36225,
+        50389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 117,
+      "seek": 11750,
+      "start": 118.0,
+      "end": 118.5,
+      "text": " Spice",
+      "tokens": [
+        50389,
+        1738,
+        573,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 118,
+      "seek": 11750,
+      "start": 118.5,
+      "end": 119.0,
+      "text": " Hindi",
+      "tokens": [
+        50414,
+        36225,
+        50439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 119,
+      "seek": 11750,
+      "start": 119.0,
+      "end": 119.5,
+      "text": " Kwek-kwek",
+      "tokens": [
+        50439,
+        591,
+        826,
+        74,
+        12,
+        74,
+        826,
+        74,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 120,
+      "seek": 11750,
+      "start": 119.5,
+      "end": 120.0,
+      "text": " Hindi",
+      "tokens": [
+        50464,
+        36225,
+        50489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 121,
+      "seek": 11750,
+      "start": 121.0,
+      "end": 121.5,
+      "text": " Banana fruit",
+      "tokens": [
+        50539,
+        39588,
+        6773,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 122,
+      "seek": 11750,
+      "start": 121.5,
+      "end": 122.0,
+      "text": " Hindi",
+      "tokens": [
+        50564,
+        36225,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 123,
+      "seek": 11750,
+      "start": 122.0,
+      "end": 122.5,
+      "text": " Ha",
+      "tokens": [
+        50589,
+        4064,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 124,
+      "seek": 11750,
+      "start": 122.5,
+      "end": 123.0,
+      "text": " Hindi",
+      "tokens": [
+        50614,
+        36225,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 125,
+      "seek": 11750,
+      "start": 123.0,
+      "end": 123.5,
+      "text": " Oo",
+      "tokens": [
+        50639,
+        39308,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 126,
+      "seek": 11750,
+      "start": 123.5,
+      "end": 124.0,
+      "text": " Hindi",
+      "tokens": [
+        50664,
+        36225,
+        50689
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 127,
+      "seek": 11750,
+      "start": 124.0,
+      "end": 124.5,
+      "text": " Samotik",
+      "tokens": [
+        50689,
+        4832,
+        310,
+        1035,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 128,
+      "seek": 11750,
+      "start": 124.5,
+      "end": 125.0,
+      "text": " Hindi",
+      "tokens": [
+        50714,
+        36225,
+        50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 129,
+      "seek": 11750,
+      "start": 126.0,
+      "end": 126.5,
+      "text": " Miliyenda",
+      "tokens": [
+        50789,
+        376,
+        2312,
+        88,
+        7639,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 130,
+      "seek": 11750,
+      "start": 126.5,
+      "end": 127.0,
+      "text": " Oo",
+      "tokens": [
+        50814,
+        39308,
+        50839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 131,
+      "seek": 11750,
+      "start": 128.0,
+      "end": 128.5,
+      "text": " Hal-hal",
+      "tokens": [
+        50889,
+        13896,
+        12,
+        4947,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 132,
+      "seek": 11750,
+      "start": 128.5,
+      "end": 129.0,
+      "text": " Hindi",
+      "tokens": [
+        50914,
+        36225,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 133,
+      "seek": 11750,
+      "start": 131.0,
+      "end": 131.5,
+      "text": " Bala kong nyelo",
+      "tokens": [
+        51039,
+        363,
+        5159,
+        350,
+        556,
+        18052,
+        10590,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 134,
+      "seek": 11750,
+      "start": 131.5,
+      "end": 132.0,
+      "text": " Hindi",
+      "tokens": [
+        51064,
+        36225,
+        51089
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 135,
+      "seek": 11750,
+      "start": 133.0,
+      "end": 133.5,
+      "text": " Mainit",
+      "tokens": [
+        51139,
+        376,
+        491,
+        270,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 136,
+      "seek": 11750,
+      "start": 133.5,
+      "end": 134.0,
+      "text": " Pade",
+      "tokens": [
+        51164,
+        430,
+        762,
+        51189
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 137,
+      "seek": 11750,
+      "start": 135.0,
+      "end": 135.5,
+      "text": " Mananig sa",
+      "tokens": [
+        51239,
+        2458,
+        282,
+        328,
+        601,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 138,
+      "seek": 11750,
+      "start": 135.5,
+      "end": 136.0,
+      "text": " Hindi",
+      "tokens": [
+        51264,
+        36225,
+        51289
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 139,
+      "seek": 11750,
+      "start": 138.0,
+      "end": 139.0,
+      "text": " Sa halid kinakain mo dala",
+      "tokens": [
+        51389,
+        6299,
+        7523,
+        327,
+        15784,
+        514,
+        491,
+        705,
+        274,
+        5159,
+        51439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 140,
+      "seek": 11750,
+      "start": 139.0,
+      "end": 139.5,
+      "text": " Pade",
+      "tokens": [
+        51439,
+        430,
+        762,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 141,
+      "seek": 11750,
+      "start": 142.0,
+      "end": 142.5,
+      "text": " Miliyenda",
+      "tokens": [
+        51589,
+        376,
+        2312,
+        88,
+        7639,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 142,
+      "seek": 11750,
+      "start": 142.5,
+      "end": 143.0,
+      "text": " Oo",
+      "tokens": [
+        51614,
+        39308,
+        51639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 143,
+      "seek": 11750,
+      "start": 143.0,
+      "end": 143.5,
+      "text": " Oo",
+      "tokens": [
+        51639,
+        39308,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 144,
+      "seek": 11750,
+      "start": 146.0,
+      "end": 146.5,
+      "text": " Hotdom",
+      "tokens": [
+        51789,
+        9423,
+        4121,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 145,
+      "seek": 11750,
+      "start": 146.5,
+      "end": 147.0,
+      "text": " Hindi",
+      "tokens": [
+        51814,
+        36225,
+        51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121196746826172,
+      "compression_ratio": 1.6444444444444444,
+      "no_speech_prob": 0.004444814752787352
+    },
+    {
+      "id": 146,
+      "seek": 14750,
+      "start": 148.0,
+      "end": 148.5,
+      "text": " Fresh spice",
+      "tokens": [
+        50389,
+        22843,
+        19436,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 147,
+      "seek": 14750,
+      "start": 148.5,
+      "end": 149.0,
+      "text": " Hindi",
+      "tokens": [
+        50414,
+        36225,
+        50439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 148,
+      "seek": 14750,
+      "start": 149.0,
+      "end": 149.5,
+      "text": " Kwek-kwek",
+      "tokens": [
+        50439,
+        591,
+        826,
+        74,
+        12,
+        74,
+        826,
+        74,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 149,
+      "seek": 14750,
+      "start": 150.0,
+      "end": 150.5,
+      "text": " Malena piyu",
+      "tokens": [
+        50489,
+        5746,
+        4118,
+        280,
+        4727,
+        84,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 150,
+      "seek": 14750,
+      "start": 150.5,
+      "end": 151.0,
+      "text": " Hindi",
+      "tokens": [
+        50514,
+        36225,
+        50539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 151,
+      "seek": 14750,
+      "start": 151.0,
+      "end": 151.5,
+      "text": " Bukbo",
+      "tokens": [
+        50539,
+        363,
+        2034,
+        1763,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 152,
+      "seek": 14750,
+      "start": 151.5,
+      "end": 152.0,
+      "text": " Hindi",
+      "tokens": [
+        50564,
+        36225,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 153,
+      "seek": 14750,
+      "start": 152.0,
+      "end": 152.5,
+      "text": " De-ol",
+      "tokens": [
+        50589,
+        1346,
+        12,
+        401,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 154,
+      "seek": 14750,
+      "start": 153.0,
+      "end": 153.5,
+      "text": " Hindi",
+      "tokens": [
+        50639,
+        36225,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 155,
+      "seek": 14750,
+      "start": 158.0,
+      "end": 158.5,
+      "text": " Oplot",
+      "tokens": [
+        50889,
+        422,
+        564,
+        310,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 156,
+      "seek": 14750,
+      "start": 158.5,
+      "end": 159.0,
+      "text": " Hindi",
+      "tokens": [
+        50914,
+        36225,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 157,
+      "seek": 14750,
+      "start": 159.0,
+      "end": 159.5,
+      "text": " Ha",
+      "tokens": [
+        50939,
+        4064,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 158,
+      "seek": 14750,
+      "start": 159.5,
+      "end": 160.0,
+      "text": " Ha",
+      "tokens": [
+        50964,
+        4064,
+        50989
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 159,
+      "seek": 14750,
+      "start": 160.5,
+      "end": 161.0,
+      "text": " Maelf",
+      "tokens": [
+        51014,
+        4042,
+        1967,
+        51039
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 160,
+      "seek": 14750,
+      "start": 161.0,
+      "end": 161.5,
+      "text": " Hindi",
+      "tokens": [
+        51039,
+        36225,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 161,
+      "seek": 14750,
+      "start": 161.5,
+      "end": 162.0,
+      "text": " Malik",
+      "tokens": [
+        51064,
+        5746,
+        1035,
+        51089
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    },
+    {
+      "id": 162,
+      "seek": 14750,
+      "start": 162.0,
+      "end": 162.5,
+      "text": " Hindi",
+      "tokens": [
+        51089,
+        36225,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42945673767949494,
+      "compression_ratio": 1.3214285714285714,
+      "no_speech_prob": 0.05652168020606041
+    }
+  ],
+  "language": "tl"
+}

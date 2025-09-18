@@ -1,0 +1,64 @@
+{
+  "text": " Mami, ayaw sa gulit, di ko lang tawag sa kanamu. You're my dream, baby.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Mami, ayaw sa gulit, di ko lang tawag sa kanamu.",
+      "tokens": [
+        50364,
+        376,
+        4526,
+        11,
+        7494,
+        1607,
+        601,
+        290,
+        425,
+        270,
+        11,
+        1026,
+        8384,
+        2265,
+        256,
+        1607,
+        559,
+        601,
+        4608,
+        335,
+        84,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8298563957214355,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.08325330913066864
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 32.0,
+      "text": " You're my dream, baby.",
+      "tokens": [
+        50364,
+        509,
+        434,
+        452,
+        3055,
+        11,
+        3186,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7828274726867676,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.966900110244751
+    }
+  ],
+  "language": "tl"
+}

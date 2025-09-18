@@ -1,0 +1,187 @@
+{
+  "text": " I am YetB� I feel so unsure As I take your hand and lead you to the dance floor As the music dies, something in your eyes Calls to mind a silver screen and all it said goodbye I'm never gonna dance again Guilty feet have got no rhythm No one says it's easy",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.36,
+      "text": " I am YetB�",
+      "tokens": [
+        50364,
+        286,
+        669,
+        10890,
+        33,
+        106,
+        50632
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.621627383761936,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.47916290163993835
+    },
+    {
+      "id": 1,
+      "seek": 536,
+      "start": 5.36,
+      "end": 30.36,
+      "text": " I feel so unsure",
+      "tokens": [
+        50364,
+        286,
+        841,
+        370,
+        32486,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8119390606880188,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.5485733151435852
+    },
+    {
+      "id": 2,
+      "seek": 3036,
+      "start": 30.36,
+      "end": 39.36,
+      "text": " As I take your hand and lead you to the dance floor",
+      "tokens": [
+        50364,
+        1018,
+        286,
+        747,
+        428,
+        1011,
+        293,
+        1477,
+        291,
+        281,
+        264,
+        4489,
+        4123,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17326572023589035,
+      "compression_ratio": 1.4109589041095891,
+      "no_speech_prob": 0.6728018522262573
+    },
+    {
+      "id": 3,
+      "seek": 3036,
+      "start": 39.36,
+      "end": 45.36,
+      "text": " As the music dies, something in your eyes",
+      "tokens": [
+        50814,
+        1018,
+        264,
+        1318,
+        2714,
+        11,
+        746,
+        294,
+        428,
+        2575,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17326572023589035,
+      "compression_ratio": 1.4109589041095891,
+      "no_speech_prob": 0.6728018522262573
+    },
+    {
+      "id": 4,
+      "seek": 3036,
+      "start": 45.36,
+      "end": 52.36,
+      "text": " Calls to mind a silver screen and all it said goodbye",
+      "tokens": [
+        51114,
+        7807,
+        82,
+        281,
+        1575,
+        257,
+        8753,
+        2568,
+        293,
+        439,
+        309,
+        848,
+        12084,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17326572023589035,
+      "compression_ratio": 1.4109589041095891,
+      "no_speech_prob": 0.6728018522262573
+    },
+    {
+      "id": 5,
+      "seek": 3036,
+      "start": 52.36,
+      "end": 54.36,
+      "text": " I'm never gonna dance again",
+      "tokens": [
+        51464,
+        286,
+        478,
+        1128,
+        799,
+        4489,
+        797,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17326572023589035,
+      "compression_ratio": 1.4109589041095891,
+      "no_speech_prob": 0.6728018522262573
+    },
+    {
+      "id": 6,
+      "seek": 3036,
+      "start": 54.36,
+      "end": 58.36,
+      "text": " Guilty feet have got no rhythm",
+      "tokens": [
+        51564,
+        2694,
+        11544,
+        3521,
+        362,
+        658,
+        572,
+        11801,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17326572023589035,
+      "compression_ratio": 1.4109589041095891,
+      "no_speech_prob": 0.6728018522262573
+    },
+    {
+      "id": 7,
+      "seek": 5836,
+      "start": 58.36,
+      "end": 60.36,
+      "text": " No one says it's easy",
+      "tokens": [
+        50364,
+        883,
+        472,
+        1619,
+        309,
+        311,
+        1858,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5218346383836534,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.6235973238945007
+    }
+  ],
+  "language": "en"
+}

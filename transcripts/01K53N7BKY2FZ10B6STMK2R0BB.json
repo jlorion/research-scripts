@@ -1,0 +1,121 @@
+{
+  "text": " Kung maging isda ako, ano ako na isda? Komen lang sa comment kisiyon! AHAHAHAH! Sinimung bunge. Sinimung bunge.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.3200000000000003,
+      "text": " Kung maging isda ako, ano ako na isda?",
+      "tokens": [
+        50364,
+        44317,
+        2258,
+        278,
+        307,
+        2675,
+        43567,
+        11,
+        19816,
+        43567,
+        1667,
+        307,
+        2675,
+        30,
+        50530
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7424311918370864,
+      "compression_ratio": 1.2613636363636365,
+      "no_speech_prob": 0.14507931470870972
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.3200000000000003,
+      "end": 4.9,
+      "text": " Komen lang sa comment kisiyon!",
+      "tokens": [
+        50530,
+        591,
+        4726,
+        2265,
+        601,
+        2871,
+        350,
+        271,
+        4727,
+        266,
+        0,
+        50609
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7424311918370864,
+      "compression_ratio": 1.2613636363636365,
+      "no_speech_prob": 0.14507931470870972
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.9,
+      "end": 5.66,
+      "text": " AHAHAHAH!",
+      "tokens": [
+        50609,
+        316,
+        21803,
+        4983,
+        39,
+        0,
+        50647
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7424311918370864,
+      "compression_ratio": 1.2613636363636365,
+      "no_speech_prob": 0.14507931470870972
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.66,
+      "end": 6.66,
+      "text": " Sinimung bunge.",
+      "tokens": [
+        50647,
+        11187,
+        332,
+        1063,
+        50045,
+        68,
+        13,
+        50697
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7424311918370864,
+      "compression_ratio": 1.2613636363636365,
+      "no_speech_prob": 0.14507931470870972
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.16,
+      "end": 12.08,
+      "text": " Sinimung bunge.",
+      "tokens": [
+        50922,
+        11187,
+        332,
+        1063,
+        50045,
+        68,
+        13,
+        50968
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7424311918370864,
+      "compression_ratio": 1.2613636363636365,
+      "no_speech_prob": 0.14507931470870972
+    }
+  ],
+  "language": "tl"
+}

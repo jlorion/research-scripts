@@ -1,0 +1,105 @@
+{
+  "text": " Sundan mo ang paghimig na lulan na aking pinagtatantong Sundan mo ang paghimig ko Hindi ko maisip kung walangka Sa buhay ko",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.08,
+      "text": " Sundan mo ang paghimig na lulan na aking pinagtatantong",
+      "tokens": [
+        50364,
+        6942,
+        282,
+        705,
+        2562,
+        11812,
+        18251,
+        328,
+        1667,
+        287,
+        40701,
+        1667,
+        257,
+        5092,
+        5447,
+        7665,
+        267,
+        394,
+        556,
+        51118
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43692444216820503,
+      "compression_ratio": 1.3064516129032258,
+      "no_speech_prob": 0.1862597018480301
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 15.08,
+      "end": 25.2,
+      "text": " Sundan mo ang paghimig ko",
+      "tokens": [
+        51118,
+        6942,
+        282,
+        705,
+        2562,
+        11812,
+        18251,
+        328,
+        8384,
+        51624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43692444216820503,
+      "compression_ratio": 1.3064516129032258,
+      "no_speech_prob": 0.1862597018480301
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 31.0,
+      "end": 42.0,
+      "text": " Hindi ko maisip kung walangka",
+      "tokens": [
+        50414,
+        36225,
+        8384,
+        463,
+        271,
+        647,
+        49304,
+        21346,
+        656,
+        2330,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7881612247890897,
+      "compression_ratio": 0.8541666666666666,
+      "no_speech_prob": 0.041457079350948334
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 46.0,
+      "end": 51.0,
+      "text": " Sa buhay ko",
+      "tokens": [
+        51164,
+        6299,
+        758,
+        47464,
+        8384,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7881612247890897,
+      "compression_ratio": 0.8541666666666666,
+      "no_speech_prob": 0.041457079350948334
+    }
+  ],
+  "language": "tl"
+}

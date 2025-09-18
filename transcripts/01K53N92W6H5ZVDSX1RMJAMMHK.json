@@ -1,0 +1,110 @@
+{
+  "text": " Charge correctionWACF she controlledFam��ルー Там headlights",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.2,
+      "text": " Charge",
+      "tokens": [
+        50364,
+        40546,
+        50524
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.930954673073509,
+      "compression_ratio": 0.9183673469387755,
+      "no_speech_prob": 0.36371326446533203
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.2,
+      "end": 5.64,
+      "text": " correction",
+      "tokens": [
+        50524,
+        19984,
+        50646
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.930954673073509,
+      "compression_ratio": 0.9183673469387755,
+      "no_speech_prob": 0.36371326446533203
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.64,
+      "end": 6.86,
+      "text": "WACF",
+      "tokens": [
+        50646,
+        54,
+        4378,
+        37,
+        50707
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.930954673073509,
+      "compression_ratio": 0.9183673469387755,
+      "no_speech_prob": 0.36371326446533203
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.86,
+      "end": 8.14,
+      "text": " she controlled",
+      "tokens": [
+        50707,
+        750,
+        10164,
+        50771
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.930954673073509,
+      "compression_ratio": 0.9183673469387755,
+      "no_speech_prob": 0.36371326446533203
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.8,
+      "end": 25.34,
+      "text": "Fam��",
+      "tokens": [
+        51154,
+        37,
+        335,
+        2742,
+        51631
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.930954673073509,
+      "compression_ratio": 0.9183673469387755,
+      "no_speech_prob": 0.36371326446533203
+    },
+    {
+      "id": 5,
+      "seek": 2534,
+      "start": 25.34,
+      "end": 35.16,
+      "text": "ルー Там headlights",
+      "tokens": [
+        50364,
+        9405,
+        3384,
+        27451,
+        38487,
+        50855
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.9176025390625,
+      "compression_ratio": 0.7272727272727273,
+      "no_speech_prob": 0.5588332414627075
+    }
+  ],
+  "language": "ja"
+}

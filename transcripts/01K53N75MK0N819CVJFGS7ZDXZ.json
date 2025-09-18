@@ -1,0 +1,64 @@
+{
+  "text": " Ang violations si Sereno. Maliwanag. Ikaw bobo putakinan mo ka. Ginag-inan mo.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " Ang violations si Sereno. Maliwanag. Ikaw bobo putakinan mo ka.",
+      "tokens": [
+        50364,
+        4521,
+        30405,
+        1511,
+        4210,
+        5808,
+        13,
+        5746,
+        72,
+        7916,
+        559,
+        13,
+        8316,
+        1607,
+        748,
+        1763,
+        829,
+        12709,
+        282,
+        705,
+        6799,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7534692359693123,
+      "compression_ratio": 1.0129870129870129,
+      "no_speech_prob": 0.5645198225975037
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Ginag-inan mo.",
+      "tokens": [
+        50664,
+        36846,
+        559,
+        12,
+        259,
+        282,
+        705,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7534692359693123,
+      "compression_ratio": 1.0129870129870129,
+      "no_speech_prob": 0.5645198225975037
+    }
+  ],
+  "language": "tl"
+}

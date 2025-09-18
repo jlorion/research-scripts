@@ -1,0 +1,25 @@
+{
+  "text": " Touhou Models",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 25.1,
+      "text": " Touhou Models",
+      "tokens": [
+        50364,
+        30850,
+        12181,
+        6583,
+        1625,
+        51619
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9651696341378346,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.37379470467567444
+    }
+  ],
+  "language": "en"
+}

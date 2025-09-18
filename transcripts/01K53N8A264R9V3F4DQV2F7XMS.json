@@ -1,0 +1,38 @@
+{
+  "text": " rua you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 25.3,
+      "text": " rua",
+      "tokens": [
+        50364,
+        49467,
+        51629
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.142205047607422,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.4442923367023468
+    },
+    {
+      "id": 1,
+      "seek": 8530,
+      "start": 85.3,
+      "end": 87.36,
+      "text": " you",
+      "tokens": [
+        50364,
+        291,
+        50467
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8152832388877869,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.9101532697677612
+    }
+  ],
+  "language": "en"
+}

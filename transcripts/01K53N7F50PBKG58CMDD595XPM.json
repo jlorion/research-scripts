@@ -1,0 +1,42 @@
+{
+  "text": " Kung ang mundo ay bilog, pwede mo ba kainin ang aking iyo?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Kung ang mundo ay bilog, pwede mo ba kainin ang aking iyo?",
+      "tokens": [
+        50364,
+        44317,
+        2562,
+        7968,
+        7494,
+        8588,
+        664,
+        11,
+        280,
+        86,
+        4858,
+        705,
+        4773,
+        350,
+        491,
+        259,
+        2562,
+        257,
+        5092,
+        741,
+        8308,
+        30,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5158186356226603,
+      "compression_ratio": 0.9666666666666667,
+      "no_speech_prob": 0.2221866399049759
+    }
+  ],
+  "language": "tl"
+}

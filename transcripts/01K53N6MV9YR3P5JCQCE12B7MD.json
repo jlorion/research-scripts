@@ -1,0 +1,153 @@
+{
+  "text": " Guys! Bicene oh! Bicene keyboard guys oh! Bilig na kayo guys morong morong lang oh! Click the yellow basket! Mayroon siya iOS, NIP, or Androids. Morong morong lang. Thank you guys!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.6,
+      "text": " Guys! Bicene oh!",
+      "tokens": [
+        50364,
+        7855,
+        0,
+        363,
+        299,
+        1450,
+        1954,
+        0,
+        50494
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6318855285644531,
+      "compression_ratio": 1.3846153846153846,
+      "no_speech_prob": 0.11342275887727737
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.8,
+      "end": 7.44,
+      "text": " Bicene keyboard guys oh!",
+      "tokens": [
+        50654,
+        363,
+        299,
+        1450,
+        10186,
+        1074,
+        1954,
+        0,
+        50736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6318855285644531,
+      "compression_ratio": 1.3846153846153846,
+      "no_speech_prob": 0.11342275887727737
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.84,
+      "end": 10.6,
+      "text": " Bilig na kayo guys morong morong lang oh!",
+      "tokens": [
+        50806,
+        22879,
+        328,
+        1667,
+        12446,
+        78,
+        1074,
+        1896,
+        556,
+        1896,
+        556,
+        2265,
+        1954,
+        0,
+        50894
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6318855285644531,
+      "compression_ratio": 1.3846153846153846,
+      "no_speech_prob": 0.11342275887727737
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.6,
+      "end": 11.8,
+      "text": " Click the yellow basket!",
+      "tokens": [
+        50894,
+        8230,
+        264,
+        5566,
+        8390,
+        0,
+        50954
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6318855285644531,
+      "compression_ratio": 1.3846153846153846,
+      "no_speech_prob": 0.11342275887727737
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.2,
+      "end": 22.5,
+      "text": " Mayroon siya iOS, NIP, or Androids.",
+      "tokens": [
+        51224,
+        1891,
+        340,
+        266,
+        1511,
+        3016,
+        17430,
+        11,
+        426,
+        9139,
+        11,
+        420,
+        400,
+        340,
+        3742,
+        13,
+        51489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6318855285644531,
+      "compression_ratio": 1.3846153846153846,
+      "no_speech_prob": 0.11342275887727737
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.400000000000002,
+      "end": 25.400000000000002,
+      "text": " Morong morong lang. Thank you guys!",
+      "tokens": [
+        51534,
+        5146,
+        556,
+        1896,
+        556,
+        2265,
+        13,
+        1044,
+        291,
+        1074,
+        0,
+        51634
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6318855285644531,
+      "compression_ratio": 1.3846153846153846,
+      "no_speech_prob": 0.11342275887727737
+    }
+  ],
+  "language": "tl"
+}

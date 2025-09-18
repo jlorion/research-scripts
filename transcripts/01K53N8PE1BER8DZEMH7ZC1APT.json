@@ -1,0 +1,143 @@
+{
+  "text": " Will וI'll be crooked perfect when you cry beautiful goodbye stripping from your eyes beautiful goodbye stripping from your eyes oh yeah when did the rain become a",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.5600000000000005,
+      "text": " Will וI'll be crooked",
+      "tokens": [
+        50364,
+        3099,
+        7666,
+        40,
+        603,
+        312,
+        41710,
+        50642
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.384201897515191,
+      "compression_ratio": 0.7586206896551724,
+      "no_speech_prob": 0.4717194736003876
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 36.44,
+      "text": " perfect when you cry beautiful goodbye",
+      "tokens": [
+        50364,
+        2176,
+        562,
+        291,
+        3305,
+        2238,
+        12084,
+        50686
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.856191771371024,
+      "compression_ratio": 1.5820895522388059,
+      "no_speech_prob": 0.6914269328117371
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 38.44,
+      "end": 43.44,
+      "text": " stripping from your eyes",
+      "tokens": [
+        50786,
+        3575,
+        3759,
+        490,
+        428,
+        2575,
+        51036
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.856191771371024,
+      "compression_ratio": 1.5820895522388059,
+      "no_speech_prob": 0.6914269328117371
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 43.44,
+      "end": 47.44,
+      "text": " beautiful goodbye",
+      "tokens": [
+        51036,
+        2238,
+        12084,
+        51236
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.856191771371024,
+      "compression_ratio": 1.5820895522388059,
+      "no_speech_prob": 0.6914269328117371
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 49.44,
+      "end": 54.44,
+      "text": " stripping from your eyes",
+      "tokens": [
+        51336,
+        3575,
+        3759,
+        490,
+        428,
+        2575,
+        51586
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.856191771371024,
+      "compression_ratio": 1.5820895522388059,
+      "no_speech_prob": 0.6914269328117371
+    },
+    {
+      "id": 5,
+      "seek": 5444,
+      "start": 54.879999999999995,
+      "end": 57.879999999999995,
+      "text": " oh yeah",
+      "tokens": [
+        50386,
+        1954,
+        1338,
+        50536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4519859460683969,
+      "compression_ratio": 0.8095238095238095,
+      "no_speech_prob": 0.1985395848751068
+    },
+    {
+      "id": 6,
+      "seek": 5444,
+      "start": 57.879999999999995,
+      "end": 59.879999999999995,
+      "text": " when did the rain become a",
+      "tokens": [
+        50536,
+        562,
+        630,
+        264,
+        4830,
+        1813,
+        257,
+        50636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4519859460683969,
+      "compression_ratio": 0.8095238095238095,
+      "no_speech_prob": 0.1985395848751068
+    }
+  ],
+  "language": "en"
+}

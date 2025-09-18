@@ -1,0 +1,24 @@
+{
+  "text": " Daniel Kalmi",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 14.96,
+      "text": " Daniel Kalmi",
+      "tokens": [
+        50364,
+        8033,
+        12655,
+        3057,
+        51112
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.913865407307942,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.27821508049964905
+    }
+  ],
+  "language": "id"
+}

@@ -1,0 +1,211 @@
+{
+  "text": " Hat-shinigned ang panipunin na i inspires, Baq, ngayon akong talaga masçak sa wala namin. O pili na? Pili na pili na Oh, mula lang? Ano nalang? Bintisa? Mula na yan? Ito ba? Oh",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.94,
+      "text": " Hat-shinigned ang panipunin na i inspires, Baq, ngayon akong talaga masçak sa wala namin.",
+      "tokens": [
+        50364,
+        15867,
+        12,
+        2716,
+        259,
+        16690,
+        2562,
+        2462,
+        647,
+        409,
+        259,
+        1667,
+        741,
+        32566,
+        11,
+        6777,
+        80,
+        11,
+        6415,
+        320,
+        266,
+        9308,
+        556,
+        4023,
+        9286,
+        2300,
+        1138,
+        514,
+        601,
+        261,
+        5159,
+        297,
+        7428,
+        13,
+        50761
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.316477182749155,
+      "compression_ratio": 1.0465116279069768,
+      "no_speech_prob": 0.12656816840171814
+    },
+    {
+      "id": 1,
+      "seek": 794,
+      "start": 7.94,
+      "end": 8.940000000000001,
+      "text": " O pili na?",
+      "tokens": [
+        50364,
+        422,
+        280,
+        2312,
+        1667,
+        30,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    },
+    {
+      "id": 2,
+      "seek": 794,
+      "start": 8.940000000000001,
+      "end": 10.940000000000001,
+      "text": " Pili na pili na",
+      "tokens": [
+        50414,
+        430,
+        2312,
+        1667,
+        280,
+        2312,
+        1667,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    },
+    {
+      "id": 3,
+      "seek": 794,
+      "start": 10.940000000000001,
+      "end": 12.940000000000001,
+      "text": " Oh, mula lang?",
+      "tokens": [
+        50514,
+        876,
+        11,
+        275,
+        3780,
+        2265,
+        30,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    },
+    {
+      "id": 4,
+      "seek": 794,
+      "start": 12.940000000000001,
+      "end": 13.940000000000001,
+      "text": " Ano nalang?",
+      "tokens": [
+        50614,
+        1107,
+        78,
+        297,
+        304,
+        656,
+        30,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    },
+    {
+      "id": 5,
+      "seek": 794,
+      "start": 13.940000000000001,
+      "end": 15.940000000000001,
+      "text": " Bintisa?",
+      "tokens": [
+        50664,
+        363,
+        686,
+        3837,
+        30,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    },
+    {
+      "id": 6,
+      "seek": 794,
+      "start": 17.94,
+      "end": 18.94,
+      "text": " Mula na yan?",
+      "tokens": [
+        50864,
+        376,
+        3780,
+        1667,
+        17700,
+        30,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    },
+    {
+      "id": 7,
+      "seek": 794,
+      "start": 18.94,
+      "end": 19.94,
+      "text": " Ito ba?",
+      "tokens": [
+        50914,
+        467,
+        78,
+        4773,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    },
+    {
+      "id": 8,
+      "seek": 794,
+      "start": 19.94,
+      "end": 20.94,
+      "text": " Oh",
+      "tokens": [
+        50964,
+        876,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.632182792381004,
+      "compression_ratio": 1.178082191780822,
+      "no_speech_prob": 0.14435231685638428
+    }
+  ],
+  "language": "tl"
+}

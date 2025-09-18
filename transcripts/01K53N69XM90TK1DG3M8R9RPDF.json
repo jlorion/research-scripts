@@ -1,0 +1,145 @@
+{
+  "text": " Ame o ka? At wala akong pake! Kung ako hindi natutulog. Kaya ako hindi natutulog, binabantayan po lang ang sakinig ko! Ame o ka?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.8000000000000003,
+      "text": " Ame o ka?",
+      "tokens": [
+        50364,
+        316,
+        1398,
+        277,
+        6799,
+        30,
+        50504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5986526858422064,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.19793343544006348
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.8000000000000003,
+      "end": 4.0,
+      "text": " At wala akong pake!",
+      "tokens": [
+        50504,
+        1711,
+        261,
+        5159,
+        9308,
+        556,
+        280,
+        619,
+        0,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5986526858422064,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.19793343544006348
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Kung ako hindi natutulog.",
+      "tokens": [
+        50564,
+        44317,
+        43567,
+        276,
+        10255,
+        2249,
+        325,
+        425,
+        664,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5986526858422064,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.19793343544006348
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.0,
+      "end": 7.3,
+      "text": " Kaya ako hindi natutulog,",
+      "tokens": [
+        50664,
+        591,
+        4427,
+        43567,
+        276,
+        10255,
+        2249,
+        325,
+        425,
+        664,
+        11,
+        50729
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5986526858422064,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.19793343544006348
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.3,
+      "end": 9.3,
+      "text": " binabantayan po lang ang sakinig ko!",
+      "tokens": [
+        50729,
+        5171,
+        455,
+        394,
+        20506,
+        714,
+        2265,
+        2562,
+        262,
+        12709,
+        328,
+        8384,
+        0,
+        50829
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5986526858422064,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.19793343544006348
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.3,
+      "end": 11.3,
+      "text": " Ame o ka?",
+      "tokens": [
+        50829,
+        316,
+        1398,
+        277,
+        6799,
+        30,
+        50929
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5986526858422064,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.19793343544006348
+    }
+  ],
+  "language": "tl"
+}

@@ -1,0 +1,27 @@
+{
+  "text": " Gili na ma Les?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.860000000000001,
+      "text": " Gili na ma Les?",
+      "tokens": [
+        50364,
+        460,
+        2312,
+        1667,
+        463,
+        6965,
+        30,
+        51157
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.853617774115668,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.414334774017334
+    }
+  ],
+  "language": "tl"
+}

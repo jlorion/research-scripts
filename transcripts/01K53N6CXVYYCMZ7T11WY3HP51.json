@@ -1,0 +1,49 @@
+{
+  "text": " Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.0,
+      "text": " Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn",
+      "tokens": [
+        50364,
+        389,
+        49205,
+        3022,
+        1586,
+        350,
+        5050,
+        71,
+        460,
+        4954,
+        26871,
+        376,
+        4749,
+        460,
+        5536,
+        13055,
+        9571,
+        11415,
+        272,
+        21920,
+        287,
+        1297,
+        94,
+        20136,
+        960,
+        276,
+        47176,
+        274,
+        35400,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.158970094496204,
+      "compression_ratio": 0.89,
+      "no_speech_prob": 0.31566324830055237
+    }
+  ],
+  "language": "vi"
+}

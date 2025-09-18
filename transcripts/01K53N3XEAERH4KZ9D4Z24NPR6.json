@@ -1,0 +1,128 @@
+{
+  "text": " Come check this Announcer Come check this Come check this Come check this Come check this you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Come check this",
+      "tokens": [
+        50364,
+        2492,
+        1520,
+        341,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.360271962483724,
+      "compression_ratio": 2.282051282051282,
+      "no_speech_prob": 0.33879902958869934
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.38,
+      "end": 15.9,
+      "text": " Announcer",
+      "tokens": [
+        50733,
+        36640,
+        51159
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.360271962483724,
+      "compression_ratio": 2.282051282051282,
+      "no_speech_prob": 0.33879902958869934
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 17.900000000000002,
+      "end": 21.240000000000002,
+      "text": " Come check this",
+      "tokens": [
+        51259,
+        2492,
+        1520,
+        341,
+        51426
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.360271962483724,
+      "compression_ratio": 2.282051282051282,
+      "no_speech_prob": 0.33879902958869934
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 21.78,
+      "end": 23.78,
+      "text": " Come check this",
+      "tokens": [
+        51453,
+        2492,
+        1520,
+        341,
+        51553
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.360271962483724,
+      "compression_ratio": 2.282051282051282,
+      "no_speech_prob": 0.33879902958869934
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 24.12,
+      "end": 26.12,
+      "text": " Come check this",
+      "tokens": [
+        51570,
+        2492,
+        1520,
+        341,
+        51670
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.360271962483724,
+      "compression_ratio": 2.282051282051282,
+      "no_speech_prob": 0.33879902958869934
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 27.22,
+      "end": 29.22,
+      "text": " Come check this",
+      "tokens": [
+        51725,
+        2492,
+        1520,
+        341,
+        51825
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.360271962483724,
+      "compression_ratio": 2.282051282051282,
+      "no_speech_prob": 0.33879902958869934
+    },
+    {
+      "id": 6,
+      "seek": 5922,
+      "start": 59.22,
+      "end": 61.28,
+      "text": " you",
+      "tokens": [
+        50364,
+        291,
+        50467
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8616232872009277,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.8918447494506836
+    }
+  ],
+  "language": "en"
+}

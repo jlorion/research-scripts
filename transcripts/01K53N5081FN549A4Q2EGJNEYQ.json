@@ -1,0 +1,156 @@
+{
+  "text": " Baila, baila conmigo Baila todo la noche Baila conmigo Baila todo la noche Baila conmigo Baila todo la noche Baila todo la noche",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.6000000000000005,
+      "text": " Baila, baila conmigo",
+      "tokens": [
+        50364,
+        363,
+        864,
+        64,
+        11,
+        19313,
+        64,
+        416,
+        76,
+        7483,
+        50644
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3375221108490566,
+      "compression_ratio": 2.4,
+      "no_speech_prob": 0.17810389399528503
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.6000000000000005,
+      "end": 9.6,
+      "text": " Baila todo la noche",
+      "tokens": [
+        50744,
+        363,
+        864,
+        64,
+        5149,
+        635,
+        29735,
+        50844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3375221108490566,
+      "compression_ratio": 2.4,
+      "no_speech_prob": 0.17810389399528503
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Baila conmigo",
+      "tokens": [
+        50964,
+        363,
+        864,
+        64,
+        416,
+        76,
+        7483,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3375221108490566,
+      "compression_ratio": 2.4,
+      "no_speech_prob": 0.17810389399528503
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.4,
+      "end": 18.400000000000002,
+      "text": " Baila todo la noche",
+      "tokens": [
+        51184,
+        363,
+        864,
+        64,
+        5149,
+        635,
+        29735,
+        51284
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3375221108490566,
+      "compression_ratio": 2.4,
+      "no_speech_prob": 0.17810389399528503
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.8,
+      "end": 22.8,
+      "text": " Baila conmigo",
+      "tokens": [
+        51404,
+        363,
+        864,
+        64,
+        416,
+        76,
+        7483,
+        51504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3375221108490566,
+      "compression_ratio": 2.4,
+      "no_speech_prob": 0.17810389399528503
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.8,
+      "end": 26.8,
+      "text": " Baila todo la noche",
+      "tokens": [
+        51604,
+        363,
+        864,
+        64,
+        5149,
+        635,
+        29735,
+        51704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3375221108490566,
+      "compression_ratio": 2.4,
+      "no_speech_prob": 0.17810389399528503
+    },
+    {
+      "id": 6,
+      "seek": 2680,
+      "start": 26.8,
+      "end": 28.8,
+      "text": " Baila todo la noche",
+      "tokens": [
+        50364,
+        363,
+        864,
+        64,
+        5149,
+        635,
+        29735,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19729149341583252,
+      "compression_ratio": 0.76,
+      "no_speech_prob": 0.38458728790283203
+    }
+  ],
+  "language": "es"
+}

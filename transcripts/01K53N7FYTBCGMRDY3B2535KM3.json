@@ -1,0 +1,170 @@
+{
+  "text": " Dada, Dada, katulog na. Mauna, draw si Kai ka kay Buntag na kamatog. Ano ko na muna? Dalik na. Oo? Oo, dalik na. Ubo, ubo, ubo na di siya.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Dada, Dada, katulog na.",
+      "tokens": [
+        50364,
+        413,
+        1538,
+        11,
+        413,
+        1538,
+        11,
+        16536,
+        425,
+        664,
+        1667,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6398251507733319,
+      "compression_ratio": 1.3018867924528301,
+      "no_speech_prob": 0.2048249989748001
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 9.0,
+      "text": " Mauna, draw si Kai ka kay Buntag na kamatog.",
+      "tokens": [
+        50614,
+        4042,
+        5051,
+        11,
+        2642,
+        1511,
+        20753,
+        6799,
+        12446,
+        363,
+        2760,
+        559,
+        1667,
+        9727,
+        267,
+        664,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6398251507733319,
+      "compression_ratio": 1.3018867924528301,
+      "no_speech_prob": 0.2048249989748001
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.0,
+      "end": 12.0,
+      "text": " Ano ko na muna?",
+      "tokens": [
+        50814,
+        1107,
+        78,
+        8384,
+        1667,
+        275,
+        5051,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6398251507733319,
+      "compression_ratio": 1.3018867924528301,
+      "no_speech_prob": 0.2048249989748001
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.0,
+      "end": 16.0,
+      "text": " Dalik na.",
+      "tokens": [
+        50964,
+        17357,
+        1035,
+        1667,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6398251507733319,
+      "compression_ratio": 1.3018867924528301,
+      "no_speech_prob": 0.2048249989748001
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.0,
+      "end": 17.0,
+      "text": " Oo?",
+      "tokens": [
+        51164,
+        39308,
+        30,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6398251507733319,
+      "compression_ratio": 1.3018867924528301,
+      "no_speech_prob": 0.2048249989748001
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.0,
+      "end": 20.0,
+      "text": " Oo, dalik na.",
+      "tokens": [
+        51214,
+        39308,
+        11,
+        11702,
+        1035,
+        1667,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6398251507733319,
+      "compression_ratio": 1.3018867924528301,
+      "no_speech_prob": 0.2048249989748001
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.0,
+      "end": 25.0,
+      "text": " Ubo, ubo, ubo na di siya.",
+      "tokens": [
+        51364,
+        624,
+        1763,
+        11,
+        344,
+        1763,
+        11,
+        344,
+        1763,
+        1667,
+        1026,
+        1511,
+        3016,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6398251507733319,
+      "compression_ratio": 1.3018867924528301,
+      "no_speech_prob": 0.2048249989748001
+    }
+  ],
+  "language": "tl"
+}

@@ -1,0 +1,41 @@
+{
+  "text": " watershed theme The Okay but",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 27.080000000000002,
+      "text": " watershed theme The",
+      "tokens": [
+        50364,
+        49728,
+        6314,
+        440,
+        51718
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.378098921342329,
+      "compression_ratio": 0.7777777777777778,
+      "no_speech_prob": 0.2737851142883301
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 27.080000000000002,
+      "end": 27.7,
+      "text": " Okay but",
+      "tokens": [
+        51718,
+        1033,
+        457,
+        51749
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.378098921342329,
+      "compression_ratio": 0.7777777777777778,
+      "no_speech_prob": 0.2737851142883301
+    }
+  ],
+  "language": "en"
+}

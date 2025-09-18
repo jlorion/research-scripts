@@ -1,0 +1,48 @@
+{
+  "text": " Sinubukan ko nga alisin yung kalokuan ko sa utako. Pero yung utako ang umalis.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.84,
+      "text": " Sinubukan ko nga alisin yung kalokuan ko sa utako. Pero yung utako ang umalis.",
+      "tokens": [
+        50364,
+        11187,
+        836,
+        22324,
+        8384,
+        297,
+        3680,
+        419,
+        33787,
+        288,
+        1063,
+        7788,
+        453,
+        6139,
+        8384,
+        601,
+        2839,
+        18501,
+        13,
+        9377,
+        288,
+        1063,
+        2839,
+        18501,
+        2562,
+        1105,
+        48581,
+        13,
+        50606
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3559237480163574,
+      "compression_ratio": 1.1142857142857143,
+      "no_speech_prob": 0.04206385090947151
+    }
+  ],
+  "language": "tl"
+}

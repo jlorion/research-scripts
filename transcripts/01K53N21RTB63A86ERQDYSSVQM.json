@@ -1,0 +1,131 @@
+{
+  "text": " Mami baka hindi ka sa February 14? Wiri ka na mo kulatahun anak. Ano kung kulatahun man? Inju-inju magka-anak. Pag shoulder ah, tarong.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Mami baka hindi ka sa February 14?",
+      "tokens": [
+        50364,
+        376,
+        4526,
+        5657,
+        64,
+        276,
+        10255,
+        6799,
+        601,
+        8711,
+        3499,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6162894202060387,
+      "compression_ratio": 1.1946902654867257,
+      "no_speech_prob": 0.15688030421733856
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 6.0,
+      "text": " Wiri ka na mo kulatahun anak.",
+      "tokens": [
+        50514,
+        343,
+        12988,
+        6799,
+        1667,
+        705,
+        27576,
+        267,
+        545,
+        409,
+        38042,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6162894202060387,
+      "compression_ratio": 1.1946902654867257,
+      "no_speech_prob": 0.15688030421733856
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Ano kung kulatahun man?",
+      "tokens": [
+        50664,
+        1107,
+        78,
+        49304,
+        27576,
+        267,
+        545,
+        409,
+        587,
+        30,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6162894202060387,
+      "compression_ratio": 1.1946902654867257,
+      "no_speech_prob": 0.15688030421733856
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.0,
+      "end": 11.0,
+      "text": " Inju-inju magka-anak.",
+      "tokens": [
+        50764,
+        682,
+        8954,
+        12,
+        259,
+        8954,
+        2258,
+        2330,
+        12,
+        282,
+        514,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6162894202060387,
+      "compression_ratio": 1.1946902654867257,
+      "no_speech_prob": 0.15688030421733856
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.0,
+      "end": 15.0,
+      "text": " Pag shoulder ah, tarong.",
+      "tokens": [
+        50914,
+        430,
+        559,
+        7948,
+        3716,
+        11,
+        3112,
+        556,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6162894202060387,
+      "compression_ratio": 1.1946902654867257,
+      "no_speech_prob": 0.15688030421733856
+    }
+  ],
+  "language": "tl"
+}

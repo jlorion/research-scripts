@@ -1,0 +1,88 @@
+{
+  "text": " address здесь Let me know if that you're sure this is close Get my songs and let me know Oh no",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 16.0,
+      "text": " address здесь",
+      "tokens": [
+        50364,
+        2985,
+        9087,
+        51164
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -6.136152648925782,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.48867741227149963
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 38.0,
+      "text": " Let me know if that you're sure this is close",
+      "tokens": [
+        50364,
+        961,
+        385,
+        458,
+        498,
+        300,
+        291,
+        434,
+        988,
+        341,
+        307,
+        1998,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8079027246545862,
+      "compression_ratio": 1.095890410958904,
+      "no_speech_prob": 0.6601951718330383
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 38.0,
+      "end": 44.0,
+      "text": " Get my songs and let me know",
+      "tokens": [
+        50764,
+        3240,
+        452,
+        5781,
+        293,
+        718,
+        385,
+        458,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8079027246545862,
+      "compression_ratio": 1.095890410958904,
+      "no_speech_prob": 0.6601951718330383
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 44.0,
+      "end": 46.0,
+      "text": " Oh no",
+      "tokens": [
+        51064,
+        876,
+        572,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8079027246545862,
+      "compression_ratio": 1.095890410958904,
+      "no_speech_prob": 0.6601951718330383
+    }
+  ],
+  "language": "en"
+}

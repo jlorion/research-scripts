@@ -1,0 +1,132 @@
+{
+  "text": " Paorder nga po ng giling! Giling giling, giling giling, Giling mo na matunaw ang taba. Giling giling, giling giling, Halaan mo matanglaan mo ba?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Paorder nga po ng giling!",
+      "tokens": [
+        50364,
+        3426,
+        4687,
+        297,
+        3680,
+        714,
+        6415,
+        290,
+        4883,
+        0,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3898427101873582,
+      "compression_ratio": 1.7349397590361446,
+      "no_speech_prob": 0.05608096718788147
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Giling giling, giling giling,",
+      "tokens": [
+        50564,
+        460,
+        4883,
+        290,
+        4883,
+        11,
+        290,
+        4883,
+        290,
+        4883,
+        11,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3898427101873582,
+      "compression_ratio": 1.7349397590361446,
+      "no_speech_prob": 0.05608096718788147
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Giling mo na matunaw ang taba.",
+      "tokens": [
+        50664,
+        460,
+        4883,
+        705,
+        1667,
+        3803,
+        409,
+        1607,
+        2562,
+        4421,
+        64,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3898427101873582,
+      "compression_ratio": 1.7349397590361446,
+      "no_speech_prob": 0.05608096718788147
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Giling giling, giling giling,",
+      "tokens": [
+        50764,
+        460,
+        4883,
+        290,
+        4883,
+        11,
+        290,
+        4883,
+        290,
+        4883,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3898427101873582,
+      "compression_ratio": 1.7349397590361446,
+      "no_speech_prob": 0.05608096718788147
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.0,
+      "end": 13.0,
+      "text": " Halaan mo matanglaan mo ba?",
+      "tokens": [
+        50864,
+        389,
+        5159,
+        282,
+        705,
+        3803,
+        656,
+        875,
+        282,
+        705,
+        4773,
+        30,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3898427101873582,
+      "compression_ratio": 1.7349397590361446,
+      "no_speech_prob": 0.05608096718788147
+    }
+  ],
+  "language": "tl"
+}

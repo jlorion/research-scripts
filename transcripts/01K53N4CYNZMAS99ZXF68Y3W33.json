@@ -1,0 +1,112 @@
+{
+  "text": " Mami Jupeata, 1 million imo sweldo Sa Saudi ka terbahaw biru uli ka kada unto Yahik ikka, malipung kong bihay bihay Ikaw aku ang...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Mami Jupeata, 1 million imo sweldo",
+      "tokens": [
+        50364,
+        376,
+        4526,
+        13582,
+        494,
+        3274,
+        11,
+        502,
+        2459,
+        566,
+        78,
+        1693,
+        338,
+        2595,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8687436190518466,
+      "compression_ratio": 1.201834862385321,
+      "no_speech_prob": 0.6972466111183167
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 9.0,
+      "text": " Sa Saudi ka terbahaw biru uli ka kada unto",
+      "tokens": [
+        50614,
+        6299,
+        18121,
+        6799,
+        1796,
+        37346,
+        1607,
+        1904,
+        84,
+        344,
+        2081,
+        6799,
+        350,
+        1538,
+        16521,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8687436190518466,
+      "compression_ratio": 1.201834862385321,
+      "no_speech_prob": 0.6972466111183167
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.0,
+      "end": 13.0,
+      "text": " Yahik ikka, malipung kong bihay bihay",
+      "tokens": [
+        50814,
+        19740,
+        1035,
+        4320,
+        2330,
+        11,
+        2806,
+        647,
+        1063,
+        350,
+        556,
+        3228,
+        47464,
+        3228,
+        47464,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8687436190518466,
+      "compression_ratio": 1.201834862385321,
+      "no_speech_prob": 0.6972466111183167
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.0,
+      "end": 14.0,
+      "text": " Ikaw aku ang...",
+      "tokens": [
+        51014,
+        8316,
+        1607,
+        21093,
+        2562,
+        485,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8687436190518466,
+      "compression_ratio": 1.201834862385321,
+      "no_speech_prob": 0.6972466111183167
+    }
+  ],
+  "language": "jw"
+}

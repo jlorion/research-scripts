@@ -1,0 +1,38 @@
+{
+  "text": " Ako makakahit yes parang spiro kasi sa hering star range",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 16.0,
+      "text": " Ako makakahit yes parang spiro kasi sa hering star range",
+      "tokens": [
+        50364,
+        316,
+        4093,
+        963,
+        40060,
+        270,
+        2086,
+        971,
+        656,
+        637,
+        5182,
+        350,
+        8483,
+        601,
+        720,
+        278,
+        3543,
+        3613,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8485390663146972,
+      "compression_ratio": 0.9824561403508771,
+      "no_speech_prob": 0.42907118797302246
+    }
+  ],
+  "language": "tl"
+}

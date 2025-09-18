@@ -1,0 +1,18 @@
+[project]
+name = "newscrape"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai-whisper>=20250625",
+    "pandas>=2.3.2",
+    "polars>=1.33.1",
+    "python-ulid>=3.1.0",
+    "pytok",
+    "requests>=2.32.5",
+    "yt-dlp>=2025.9.5",
+]
+
+[tool.uv.sources]
+pytok = { git = "https://github.com/networkdynamics/pytok.git", rev = "7066b340145b7afa27905b80cc8c183bdc388d03" }

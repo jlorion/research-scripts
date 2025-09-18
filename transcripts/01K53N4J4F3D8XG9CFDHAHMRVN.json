@@ -1,0 +1,212 @@
+{
+  "text": " Nagtitrip, pabalik sakit sa auto Habang habol ko yung money Habang mo ay cap Parang multo Kung wala ka siya chumo Habang suot ko our money Didit walang tau Balang araw, you gon' know what is about Habang habol ko yung money",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.88,
+      "text": " Nagtitrip, pabalik sakit sa auto",
+      "tokens": [
+        50364,
+        426,
+        7665,
+        270,
+        8400,
+        11,
+        280,
+        455,
+        304,
+        1035,
+        23366,
+        270,
+        601,
+        8399,
+        50508
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.88,
+      "end": 4.88,
+      "text": " Habang habol ko yung money",
+      "tokens": [
+        50508,
+        14225,
+        656,
+        3025,
+        401,
+        8384,
+        288,
+        1063,
+        1460,
+        50608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.88,
+      "end": 6.88,
+      "text": " Habang mo ay cap",
+      "tokens": [
+        50608,
+        14225,
+        656,
+        705,
+        7494,
+        1410,
+        50708
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.88,
+      "end": 8.24,
+      "text": " Parang multo",
+      "tokens": [
+        50708,
+        3457,
+        656,
+        275,
+        723,
+        78,
+        50776
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.24,
+      "end": 10.0,
+      "text": " Kung wala ka siya chumo",
+      "tokens": [
+        50776,
+        44317,
+        261,
+        5159,
+        6799,
+        1511,
+        3016,
+        417,
+        40904,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.0,
+      "text": " Habang suot ko our money",
+      "tokens": [
+        50864,
+        14225,
+        656,
+        459,
+        310,
+        8384,
+        527,
+        1460,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Didit walang tau",
+      "tokens": [
+        50964,
+        2589,
+        270,
+        21346,
+        656,
+        17842,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 14.0,
+      "end": 17.12,
+      "text": " Balang araw, you gon' know what is about",
+      "tokens": [
+        51064,
+        13140,
+        656,
+        257,
+        5131,
+        11,
+        291,
+        26307,
+        6,
+        458,
+        437,
+        307,
+        466,
+        51220
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 17.12,
+      "end": 19.12,
+      "text": " Habang habol ko yung money",
+      "tokens": [
+        51220,
+        14225,
+        656,
+        3025,
+        401,
+        8384,
+        288,
+        1063,
+        1460,
+        51320
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42513643900553383,
+      "compression_ratio": 1.5486111111111112,
+      "no_speech_prob": 0.16058306396007538
+    }
+  ],
+  "language": "tl"
+}
