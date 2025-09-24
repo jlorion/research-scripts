@@ -329,6 +329,7 @@ dependencies = [
     { name = "openai-whisper" },
     { name = "pandas" },
     { name = "polars" },
+    { name = "pydub" },
     { name = "python-ulid" },
     { name = "pytok" },
     { name = "requests" },
@@ -340,6 +341,7 @@ requires-dist = [
     { name = "openai-whisper", specifier = ">=20250625" },
     { name = "pandas", specifier = ">=2.3.2" },
     { name = "polars", specifier = ">=1.33.1" },
+    { name = "pydub", specifier = ">=0.25.1" },
     { name = "python-ulid", specifier = ">=3.1.0" },
     { name = "pytok", git = "https://github.com/networkdynamics/pytok.git?rev=7066b340145b7afa27905b80cc8c183bdc388d03" },
     { name = "requests", specifier = ">=2.32.5" },
@@ -786,6 +788,15 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/79/af/10fccae5d26c05dacdf05245453666feac4185eead5f9e0dd4da03f4f3b9/pyclick-0.0.2.tar.gz", hash = "sha256:0d4ef59faae3e313d36305a68e20d404581f54033706005939c7255e439afff1", size = 3977, upload-time = "2018-09-20T22:45:57.305Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/5d/91/75a30b68eaf0dc646093873d1fb464fca75dab7fb41ac2dd85468712af81/pyclick-0.0.2-py3-none-any.whl", hash = "sha256:393c13eb8b54c70552d5e231ad0ef7b81c8ab72cd820fbe42d5f67f3808876af", size = 5156, upload-time = "2018-09-20T22:45:55.813Z" },
+]
+
+[[package]]
+name = "pydub"
+version = "0.25.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/fe/9a/e6bca0eed82db26562c73b5076539a4a08d3cffd19c3cc5913a3e61145fd/pydub-0.25.1.tar.gz", hash = "sha256:980a33ce9949cab2a569606b65674d748ecbca4f0796887fd6f46173a7b0d30f", size = 38326, upload-time = "2021-03-10T02:09:54.659Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a6/53/d78dc063216e62fc55f6b2eebb447f6a4b0a59f55c8406376f76bf959b08/pydub-0.25.1-py2.py3-none-any.whl", hash = "sha256:65617e33033874b59d87db603aa1ed450633288aefead953b30bded59cb599a6", size = 32327, upload-time = "2021-03-10T02:09:53.503Z" },
 ]
 
 [[package]]

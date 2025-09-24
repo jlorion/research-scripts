@@ -8,6 +8,7 @@ dependencies = [
     "openai-whisper>=20250625",
     "pandas>=2.3.2",
     "polars>=1.33.1",
+    "pydub>=0.25.1",
     "python-ulid>=3.1.0",
     "pytok",
     "requests>=2.32.5",

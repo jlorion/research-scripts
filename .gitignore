@@ -11,7 +11,10 @@ wheels/
 
 audio_data/
 audio_data_v2/
+audio_data_v3/
 logs/
 outs/
 .mypy_cache/
 .pytest_cache/
+batch_csv/
+transcripts/
